@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /downloads/
 Sitemap: https://quietleverages.com/sitemap.xml

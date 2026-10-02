@@ -117,3 +117,34 @@
   })});
 })();
 
+
+(function(){
+  var dlg=document.getElementById('getfree'); if(!dlg||!dlg.showModal)return;
+  var form=document.getElementById('gf-form'), frame=document.getElementById('gf-frame');
+  var body=document.getElementById('gf-body'), done=document.getElementById('gf-done');
+  var err=document.getElementById('gf-err'), btn=document.getElementById('gf-btn'), sent=false;
+  function open(){body.hidden=false;done.hidden=true;sent=false;btn.disabled=false;btn.textContent='Send it to me';err.hidden=true;dlg.showModal();var f=form.querySelector('input');f&&f.focus()}
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[data-free]'); if(!a)return;
+    e.preventDefault(); open();
+  });
+  dlg.addEventListener('click',function(e){if(e.target===dlg)dlg.close()});
+  document.getElementById('gf-ok').addEventListener('click',function(){dlg.close()});
+  function fail(msg,el){err.textContent=msg;err.hidden=false;if(el){el.setAttribute('aria-invalid','true');el.focus()}}
+  form.addEventListener('submit',function(e){
+    var f=form.elements, ok=true; err.hidden=true;
+    [].forEach.call(form.querySelectorAll('input'),function(i){i.removeAttribute('aria-invalid')});
+    var fn=f['fields[first_name]'], ln=f['fields[last_name]'], em=f['email_address'];
+    if(!fn.value.trim()){e.preventDefault();return fail('Please add your first name.',fn)}
+    if(!ln.value.trim()){e.preventDefault();return fail('Please add your last name.',ln)}
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(em.value.trim())){e.preventDefault();return fail('That email does not look right.',em)}
+    em.value=em.value.trim(); sent=true; btn.disabled=true; btn.textContent='Sending…';
+    setTimeout(function(){ if(sent&&body.hidden===false) finish() },6000);
+  });
+  frame.addEventListener('load',function(){ if(sent) finish() });
+  function finish(){
+    if(done.hidden===false)return;
+    document.getElementById('gf-addr').textContent=form.elements['email_address'].value;
+    body.hidden=true; done.hidden=false;
+  }
+})();

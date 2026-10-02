@@ -234,6 +234,29 @@ section{scroll-margin-top:76px}
   .progress{display:none}
 }
 .pairs{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:18px}
+
+/* free download dialog */
+dialog.getfree{border:1px solid var(--rule);border-radius:16px;background:var(--surface);color:var(--ink);padding:0;width:min(92vw,520px);max-height:92vh;overflow:auto;box-shadow:0 30px 80px rgba(10,14,30,.35)}
+dialog.getfree::backdrop{background:rgba(14,18,32,.55);backdrop-filter:blur(3px)}
+dialog.getfree[open]{animation:qlUp .28s cubic-bezier(.2,.8,.2,1) both}
+.gf-body,.gf-done{padding:32px 28px 26px;display:grid;gap:14px}
+.gf-x{position:absolute;top:8px;right:8px;margin:0}
+.gf-close{background:none;border:0;font-size:30px;line-height:1;width:44px;height:44px;cursor:pointer;color:var(--muted);border-radius:10px}
+.gf-close:hover{color:var(--ink);background:var(--band)}
+.gf-sub{color:var(--muted)}
+.gf-form{display:grid;gap:14px;margin-top:4px}
+.gf-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:480px){.gf-row{grid-template-columns:1fr}}
+.gf-form label{display:grid;gap:6px;font-size:.88rem;font-weight:700}
+.gf-form input{font:inherit;font-weight:400;font-size:1rem;min-height:50px;padding:10px 14px;border:2px solid var(--rule);border-radius:10px;background:var(--bg);color:var(--ink)}
+.gf-form input:focus{outline:none;border-color:var(--accent)}
+.gf-form input[aria-invalid="true"]{border-color:#c0392b}
+.gf-err{color:#b3261e;font-size:.92rem;margin:0}
+.gf-submit{width:100%;border:0;cursor:pointer}
+.gf-submit[disabled]{opacity:.65;cursor:progress;transform:none}
+.gf-form .micro{color:var(--muted);font-size:.82rem;text-align:center}
+.gf-done{text-align:left}
+@media (prefers-reduced-motion:reduce){dialog.getfree[open]{animation:none}}
 """
 
 HEAD = """<!doctype html>
@@ -300,7 +323,7 @@ def card(d, hero=True):
 
 STICKY_JS_HOOK = '<div class="sticky" id="sticky" aria-hidden="true"><div class="wrap"><div class="t"><b>{title}</b><span>{price}</span></div><a class="btn accent" href="{url}" data-buy="1" target="_blank" rel="noopener">{cta}</a></div></div>'
 
-def product_page(d, prods):
+def _product_page(d, prods):
     sl = d["slug"]
     url = d.get("url") or (STORE + sl)
     free = d.get("free", False)
@@ -600,6 +623,37 @@ JS = r"""
   })});
 })();
 
+
+(function(){
+  var dlg=document.getElementById('getfree'); if(!dlg||!dlg.showModal)return;
+  var form=document.getElementById('gf-form'), frame=document.getElementById('gf-frame');
+  var body=document.getElementById('gf-body'), done=document.getElementById('gf-done');
+  var err=document.getElementById('gf-err'), btn=document.getElementById('gf-btn'), sent=false;
+  function open(){body.hidden=false;done.hidden=true;sent=false;btn.disabled=false;btn.textContent='Send it to me';err.hidden=true;dlg.showModal();var f=form.querySelector('input');f&&f.focus()}
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[data-free]'); if(!a)return;
+    e.preventDefault(); open();
+  });
+  dlg.addEventListener('click',function(e){if(e.target===dlg)dlg.close()});
+  document.getElementById('gf-ok').addEventListener('click',function(){dlg.close()});
+  function fail(msg,el){err.textContent=msg;err.hidden=false;if(el){el.setAttribute('aria-invalid','true');el.focus()}}
+  form.addEventListener('submit',function(e){
+    var f=form.elements, ok=true; err.hidden=true;
+    [].forEach.call(form.querySelectorAll('input'),function(i){i.removeAttribute('aria-invalid')});
+    var fn=f['fields[first_name]'], ln=f['fields[last_name]'], em=f['email_address'];
+    if(!fn.value.trim()){e.preventDefault();return fail('Please add your first name.',fn)}
+    if(!ln.value.trim()){e.preventDefault();return fail('Please add your last name.',ln)}
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(em.value.trim())){e.preventDefault();return fail('That email does not look right.',em)}
+    em.value=em.value.trim(); sent=true; btn.disabled=true; btn.textContent='Sending…';
+    setTimeout(function(){ if(sent&&body.hidden===false) finish() },6000);
+  });
+  frame.addEventListener('load',function(){ if(sent) finish() });
+  function finish(){
+    if(done.hidden===false)return;
+    document.getElementById('gf-addr').textContent=form.elements['email_address'].value;
+    body.hidden=true; done.hidden=false;
+  }
+})();
 """
 
 NOT_FOUND = """<!doctype html>
@@ -610,10 +664,46 @@ NOT_FOUND = """<!doctype html>
 <link rel="stylesheet" href="/site.css"></head><body class="p-reset"><div class="wrap" style="min-height:70vh;display:grid;place-content:center;gap:18px;text-align:center;justify-items:center">
 <span class="eyebrow">404</span><h1>That page is not here.</h1><p class="sub" style="max-width:30em">The link may be old, or the tool may have moved. The shop has everything.</p><a class="btn accent" href="/">Back to the shop</a></div></body></html>"""
 
+
+FREE_FORMS = {"friendship-audit": 9991643, "stay-or-go": 9991648, "what-to-fund-first": 9991657}
+
+FREE_MODAL = """<dialog class="getfree" id="getfree" aria-labelledby="gf-title" data-form="{form}" data-slug="{slug}">
+<form method="dialog" class="gf-x"><button aria-label="Close" class="gf-close">&times;</button></form>
+<div class="gf-body" id="gf-body">
+<span class="eyebrow">Free download</span>
+<h2 id="gf-title">{title}</h2>
+<p class="gf-sub">Tell us where to send it. The PDF and the Google Sheet version arrive in your inbox in a minute or two.</p>
+<form id="gf-form" class="gf-form" action="https://app.kit.com/forms/{form}/subscriptions" method="post" target="gf-frame" novalidate>
+<div class="gf-row"><label>First name<input name="fields[first_name]" autocomplete="given-name" required></label>
+<label>Last name<input name="fields[last_name]" autocomplete="family-name" required></label></div>
+<label>Email<input name="email_address" type="email" autocomplete="email" inputmode="email" required></label>
+<p class="gf-err" id="gf-err" role="alert" hidden></p>
+<button class="btn accent gf-submit" type="submit" id="gf-btn">Send it to me</button>
+<p class="micro">We email the download and the occasional note from Quiet Leverages. Unsubscribe in one click.</p>
+</form>
+</div>
+<div class="gf-done" id="gf-done" hidden>
+<span class="eyebrow">Sent</span>
+<h2>Check your inbox.</h2>
+<p class="gf-sub">Your {title} is on its way to <b id="gf-addr"></b>. It usually lands within a minute. If you do not see it, look in Promotions or Spam.</p>
+<button class="btn ghost" type="button" id="gf-ok">Back to the page</button>
+</div>
+<iframe name="gf-frame" id="gf-frame" title="" hidden></iframe>
+</dialog>"""
+
+def product_page(d, prods):
+    html = _product_page(d, prods)
+    sl = d["slug"]
+    if sl not in FREE_FORMS:
+        return html
+    html = html.replace('data-buy="1" target="_blank" rel="noopener"', 'data-free="%s"' % sl)
+    modal = FREE_MODAL.replace("{form}", str(FREE_FORMS[sl])).replace("{slug}", sl).replace("{title}", E(d["title"]))
+    return html.replace("</body>", modal + "\n</body>", 1)
+
 def write_extras(prods):
     open(os.path.join(SITE, "CNAME"), "w").write("quietleverages.com\n")
     open(os.path.join(SITE, "404.html"), "w").write(NOT_FOUND)
-    open(os.path.join(SITE, "robots.txt"), "w").write("User-agent: *\nAllow: /\nSitemap: https://quietleverages.com/sitemap.xml\n")
+    open(os.path.join(SITE, "robots.txt"), "w").write("User-agent: *\nAllow: /\nDisallow: /downloads/\nSitemap: https://quietleverages.com/sitemap.xml\n")
     urls = ["https://quietleverages.com/"] + ["https://quietleverages.com/" + s + ".html" for s in prods]
     open(os.path.join(SITE, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s</loc></url>\n" % u for u in urls) + "</urlset>\n")
 
@@ -625,6 +715,8 @@ def main():
     if os.path.exists(SITE): shutil.rmtree(SITE)
     os.makedirs(SITE)
     copy_imgs(prods)
+    dl=os.path.normpath(os.path.join(ROOT,"downloads"))
+    if os.path.isdir(dl): shutil.copytree(dl, os.path.join(SITE,"downloads"))
     open(os.path.join(SITE, "site.css"), "w").write(BASE_CSS + EXTRA_CSS)
     open(os.path.join(SITE, "site.js"), "w").write(JS)
     open(rv_path, "w").write(kept_reviews if kept_reviews else json.dumps({"_note": "Add only real reviews, e.g. copied from Gumroad. Sections stay hidden while items is empty.", "items": []}, indent=2))
