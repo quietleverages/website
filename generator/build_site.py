@@ -695,6 +695,12 @@ def product_page(d, prods):
     html = _product_page(d, prods)
     sl = d["slug"]
     if sl not in FREE_FORMS:
+        # visible buy links go straight to checkout (skips Gumroad's product page); overlay still preferred when it loads
+        base = STORE + sl
+        direct = base + ("/EARLYBIRD" if sl == FLAG else "") + "?wanted=true"
+        html = html.replace('href="%s" data-buy="1"' % base, 'href="%s" data-buy="1"' % direct)
+        if sl == FLAG:
+            html = html.replace('id="gr-open" href="%s"' % base, 'id="gr-open" href="%s/EARLYBIRD"' % base)
         return html
     html = html.replace('data-buy="1" target="_blank" rel="noopener"', 'data-free="%s"' % sl)
     html = re.sub(r'<a class="gumroad-button"[^>]*>[^<]*</a>\s*', '', html)
