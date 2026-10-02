@@ -3,7 +3,7 @@
 python3 generator/build_site.py  -> ../site/ (index.html, <slug>.html x25, site.css, site.js, reviews.json, img/)
 Flat structure on purpose: every link is relative with no '../'.
 """
-import json, glob, os, shutil, html
+import re, json, glob, os, shutil, html
 from build import CSS as BASE_CSS, E, CHK, STORE
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -697,6 +697,9 @@ def product_page(d, prods):
     if sl not in FREE_FORMS:
         return html
     html = html.replace('data-buy="1" target="_blank" rel="noopener"', 'data-free="%s"' % sl)
+    html = re.sub(r'<a class="gumroad-button"[^>]*>[^<]*</a>\s*', '', html)
+    html = re.sub(r'<script src="https://gumroad\.com/js/gumroad\.js"[^>]*></script>\s*', '', html)
+    html = re.sub(r'href="https://quietleverages\.gumroad\.com/l/%s"([^>]*data-free)' % re.escape(sl), r'href="#getfree"\1', html)
     modal = FREE_MODAL.replace("{form}", str(FREE_FORMS[sl])).replace("{slug}", sl).replace("{title}", E(d["title"]))
     return html.replace("</body>", modal + "\n</body>", 1)
 
