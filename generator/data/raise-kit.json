@@ -1,0 +1,176 @@
+{
+  "slug": "raise-kit",
+  "title": "The Raise Kit",
+  "pillar": "work",
+  "free": false,
+  "price": "$19",
+  "priceNote": "One-time $19 on Gumroad. Instant download.",
+  "eyebrow": "$19 kit · 7 days · Work",
+  "h1": "Say the number, then stop talking. Seven days to get ready for that moment.",
+  "sub": "Negotiate a raise in your current job: a seven-day plan, a four-line ask, and what to say to each of seven common pushbacks.",
+  "cta": "Get it for $19",
+  "heroMicro": "<b>PDF guide + Google Sheet + Notion.</b> Start Day 1 this week. Do not book the meeting until Day 7.",
+  "previews": [
+    "img/raise-kit-1.jpg",
+    "img/raise-kit-3.jpg",
+    "img/raise-kit-4.jpg",
+    "img/raise-kit-5.jpg"
+  ],
+  "preview_labels": [
+    "",
+    "Page 3: seven days, one conversation",
+    "Page 4: the four-line ask",
+    "Page 5: when they say..."
+  ],
+  "preview_alts": [
+    "Cover of The Raise Kit guide",
+    "Guide page listing the seven-day plan, from building an evidence log on Day 1 to booking the meeting on Day 7",
+    "Guide page showing the four-line ask: the evidence, the market, the number and the door, with notes on timing",
+    "Guide page headed When they say, with calm responses to pushbacks such as there being no budget right now"
+  ],
+  "uvp": [
+    {
+      "h": "Seven days of preparation",
+      "p": "Evidence, market range, your number, your real alternative and a one-page brief, one step a day."
+    },
+    {
+      "h": "A four-line ask",
+      "p": "The evidence, the market, the number and the door. Four sentences, then silence."
+    },
+    {
+      "h": "Seven pushbacks answered",
+      "p": "Calm, word-for-word responses, including 'There's no budget right now'."
+    }
+  ],
+  "stat": {
+    "n": "+850%",
+    "t": "US searches for 'how to negotiate salary increase in current job' are up 850% on last year. The hardest part is saying the number and then being quiet.",
+    "src": "Google Trends, US, Jan-Sep 2026 vs 2025"
+  },
+  "benefits": [
+    {
+      "h": "Evidence with numbers",
+      "p": "An evidence log that turns the last twelve months into three to five results, each with a number attached."
+    },
+    {
+      "h": "A number you can defend",
+      "p": "A market range, your number, and your real alternative, so you can ask without threatening to leave."
+    },
+    {
+      "h": "A reply for each pushback",
+      "p": "Acknowledge in one sentence, then ask the question that moves it forward. Seven are written out."
+    },
+    {
+      "h": "What your number is worth",
+      "p": "The Google Sheet calculates what your number is worth over a career, and holds a menu of non-base options if the answer is no."
+    }
+  ],
+  "benefitsTitle": "What you leave with",
+  "insideTitle": "The plan, the worksheets and the sheet",
+  "insideLead": "The guide runs the seven days. The worksheets and the Google Sheet hold your evidence, your range and the meeting record.",
+  "inside": [
+    "<b>The guide (PDF).</b> The seven-day plan, the four-line ask, seven pushbacks with responses, the recap email, and what to do after a no.",
+    "<b>Worksheets.</b> Evidence log, market range, one-page brief, rehearsal checklist.",
+    "<b>Google Sheet.</b> Evidence log, market range, a career-value calculator, a non-base 'plan B' menu and a meeting record.",
+    "<b>Notion import, and AI prompts</b> for rehearsing the conversation."
+  ],
+  "steps": {
+    "title": "Seven days, one twenty-minute conversation",
+    "items": [
+      {
+        "h": "Days 1 to 4: build the case",
+        "p": "Write the evidence log, find the market range, choose your number and plan B, and name your real alternative."
+      },
+      {
+        "h": "Days 5 and 6: write and rehearse",
+        "p": "Put the request on one page your manager could forward unchanged. Say the ask aloud three times."
+      },
+      {
+        "h": "Day 7: book the meeting",
+        "p": "Ask for twenty minutes with a clear purpose, then send a short recap the same day."
+      }
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if your pay has not caught up",
+    "yes": [
+      "You do good work and your base has not moved to match it.",
+      "You want to ask in your current job without threatening to leave.",
+      "You want the exact words, not only a plan."
+    ],
+    "no": [
+      "You are negotiating a new offer from another company. This is built for your current job.",
+      "You need legal advice about a contract. This is general education.",
+      "You want a motivational talk. This is a plan with worksheets."
+    ]
+  },
+  "proof": {
+    "title": "Why people stay without asking, in numbers",
+    "stats": [
+      {
+        "n": "48%",
+        "t": "of workers say they stay in their job out of fear and economic uncertainty.",
+        "src": "Monster, Oct 2025"
+      },
+      {
+        "n": "57%",
+        "t": "call themselves job huggers.",
+        "src": "ResumeBuilder, Feb 2026"
+      },
+      {
+        "n": "13,900",
+        "t": "upvotes on the second-highest post in r/careerguidance's top 100, one of three there about being 'too valuable to promote'.",
+        "src": "Quiet Leverages analysis of Reddit top posts, Oct 2025-Sep 2026"
+      }
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Start Day 1 this week",
+    "p": "Seven days of preparation, one conversation, and a recap that keeps the record.",
+    "items": [
+      "The guide (PDF) with the seven-day plan and four-line ask",
+      "Worksheets and a Google Sheet",
+      "Notion import and AI rehearsal prompts",
+      "Add a second kit for $12 at checkout"
+    ]
+  },
+  "faq": [
+    {
+      "q": "What format is it?",
+      "a": "A PDF guide with printable worksheets, a Google Sheet and a Notion import, plus AI prompts for rehearsing."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "The plan runs seven days, one step a day. The conversation itself is built to take about twenty minutes."
+    },
+    {
+      "q": "Who is it for?",
+      "a": "Anyone asking for more pay in a job they already have. It is built for asking without threatening to leave, not for negotiating a new offer."
+    },
+    {
+      "q": "What if they say no?",
+      "a": "The guide has a section on what to do after a no, a recap email that turns 'maybe next cycle' into criteria you can meet, and a menu of non-base options."
+    },
+    {
+      "q": "Can I print it or use it on a tablet?",
+      "a": "Both. Print the worksheets, or fill them in on a tablet with any PDF app."
+    },
+    {
+      "q": "Is this employment or legal advice?",
+      "a": "No. It is a preparation kit and general education only."
+    }
+  ],
+  "related": {
+    "name": "90-Day Career Reset",
+    "price": "$12",
+    "slug": "90-day-career-reset",
+    "blurb": "Thirteen weeks, one career move a week, with honest decision gates along the way.",
+    "eyebrow": "Next step"
+  },
+  "final": {
+    "h": "Know your number before you walk in.",
+    "p": "Seven days to get ready, then four lines and a pause."
+  },
+  "disclaimer": "General education only. Not employment or legal advice."
+}

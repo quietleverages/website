@@ -1,0 +1,184 @@
+{
+ "slug": "career-kit",
+ "title": "The Career Kit",
+ "pillar": "work",
+ "free": false,
+ "price": "$39",
+ "cta": "Get the Career Kit",
+ "priceNote": "Launches Jan 18. $39, instant download on Gumroad.",
+ "eyebrow": "Career workbook \u00b7 13 weeks \u00b7 Launches Jan 18",
+ "h1": "You don't need a new career plan. You need one question worth answering in ninety days.",
+ "sub": "Thirteen weeks, one move a week: a direction to test, proof of your craft, one agreement asked for, and an option with its downside protected.",
+ "heroMicro": "<b>Playbook and workbook PDFs, Google Sheet tracker and Notion import.</b> Start with Day 0: twenty minutes.",
+ "covertag": "Real page: the 13-week reset",
+ "previews": [
+  "img/ck-1.jpg",
+  "img/ck-4.jpg",
+  "img/ck-9.jpg",
+  "img/ck-14.jpg",
+  "img/ck-17.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "One move a week",
+  "My ninety-day direction",
+  "Evidence log",
+  "Words for the conversations"
+ ],
+ "preview_alts": [
+  "Cover of The Career Kit workbook: A career that funds your life, not one that drains it",
+  "Workbook page titled One move a week, showing the first weeks of the 13-week reset",
+  "Worksheet page titled My ninety-day direction",
+  "Workbook page titled Evidence log, a table to fill in",
+  "Workbook page titled Words for the conversations, with scripts"
+ ],
+ "uvp": [
+  {
+   "h": "One move a week",
+   "p": "Thirteen weeks of small, named moves with decision gates, so a busy week does not stall the plan."
+  },
+  {
+   "h": "Evidence, not guesses",
+   "p": "A log and a decision record that turn \"should I move?\" into something you can check against what happened."
+  },
+  {
+   "h": "Scripts for the hard parts",
+   "p": "Fourteen scripts for the conversations that make a move real, plus AI prompts for rehearsing them."
+  }
+ ],
+ "stat": {
+  "n": "108 days",
+  "t": "is the median time from starting a job search to a first offer. A career that funds your life is built over quarters, so the plan needs to be small enough to run.",
+  "src": "Huntr, Q1 2026"
+ },
+ "benefits": [
+  {
+   "h": "A direction worth testing",
+   "p": "A bounded question for the next ninety days, and the smallest test that would answer it."
+  },
+  {
+   "h": "Proof of your craft",
+   "p": "An evidence log that records wins as verbs and numbers, ready for reviews, raises and interviews."
+  },
+  {
+   "h": "One agreement asked for",
+   "p": "A bounded responsibility agreement and a one-request worksheet, with room to think."
+  },
+  {
+   "h": "An option with a protected downside",
+   "p": "Try a move with a budget and stop rules, so a test does not become a leap."
+  }
+ ],
+ "benefitsTitle": "What thirteen weeks adds up to",
+ "insideTitle": "A playbook, a workbook and a tracker",
+ "insideLead": "Read the Playbook's one-page Start here, then do Day 0 in the workbook.",
+ "inside": [
+  "<b>The Career Playbook (PDF).</b> Fifty career books, five pillars, twenty chapters.",
+  "<b>The Career Kit workbook (PDF).</b> Day 0, the 13-week reset with decision gates, five worksheets, evidence log, capacity check, Day-90 record, 14 scripts, AI prompts.",
+  "<b>Google Sheet tracker.</b> 13 weeks, evidence log, a \"does it fit\" capacity check, a private terms sheet and an option-test budget with stop rules.",
+  "<b>Notion import.</b> The tracker's pages, ready to bring in.",
+  "<b>Also included.</b> The Raise Kit and The Stay-or-Go Worksheet."
+ ],
+ "steps": {
+  "title": "Day 0, then thirteen weeks",
+  "items": [
+   {
+    "h": "Read the one-pager",
+    "p": "The Playbook's Start here page takes about twenty minutes with Day 0."
+   },
+   {
+    "h": "Do Day 0",
+    "p": "Write your position, constraint, contribution, friction, capacity and aim."
+   },
+   {
+    "h": "Run one move a week",
+    "p": "Follow the 13-week reset and check the gates on the way through."
+   },
+   {
+    "h": "Record Day 90",
+    "p": "Use the decision record to continue, change the approach or stop."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if your career is fine but not yours",
+  "yes": [
+   "You are staying in a job you have outgrown and want to test a direction on the side.",
+   "You want proof of your work you can use in reviews and interviews.",
+   "You prefer one small step a week over a big plan."
+  ],
+  "no": [
+   "You want a quick fix. This runs for thirteen weeks.",
+   "You only need a raise. The Raise Kit is included, or buy it on its own.",
+   "You want employment or legal advice. This is general education."
+  ]
+ },
+ "proof": {
+  "title": "Why a career plan has to be small",
+  "stats": [
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   },
+   {
+    "n": "108 days",
+    "t": "median from starting a job search to a first offer.",
+    "src": "Huntr, Q1 2026"
+   },
+   {
+    "n": "30-40%",
+    "t": "of hires come from referrals, which are about 7% of applicants.",
+    "src": "Jobvite and others"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Start with a question worth ninety days",
+  "p": "Launches Jan 18. One price covers the playbook, workbook, tracker and two kits.",
+  "items": [
+   "The Career Playbook and the Career Kit workbook (PDF)",
+   "Google Sheet tracker and Notion import",
+   "14 scripts and AI prompts for rehearsing",
+   "The Raise Kit and The Stay-or-Go Worksheet included"
+  ]
+ },
+ "faq": [
+  {
+   "q": "When can I get it?",
+   "a": "The Career Kit launches Jan 18."
+  },
+  {
+   "q": "What format is it?",
+   "a": "Two PDFs (the Career Playbook and the workbook), a Google Sheet tracker and a Notion import. Print the workbook or use it on a tablet."
+  },
+  {
+   "q": "How much time does it need?",
+   "a": "Day 0 takes about twenty minutes. After that, one move a week for thirteen weeks, with a fifteen-minute weekly review."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Mid-career managers and senior individual contributors who want evidence for a decision, not a motivational read."
+  },
+  {
+   "q": "Do I need the Google Sheet?",
+   "a": "No. The workbook PDF carries the plan. The sheet adds the tracking, capacity check and option-test budget."
+  },
+  {
+   "q": "Is this employment advice?",
+   "a": "No. It is a planning kit and general education, not employment or legal advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "The full version: review 2026, score twelve dimensions, pick three, run four 90-day cycles, and keep it to 105 minutes a week."
+ },
+ "final": {
+  "h": "Thirteen weeks, one move a week.",
+  "p": "Day 0 first. Twenty minutes."
+ },
+ "disclaimer": "General education only; not employment or legal advice. Launches Jan 18. By Quiet Leverages."
+}

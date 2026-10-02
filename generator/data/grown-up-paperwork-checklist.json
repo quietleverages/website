@@ -1,0 +1,164 @@
+{
+ "slug": "grown-up-paperwork-checklist",
+ "title": "Grown-Up Paperwork Checklist",
+ "pillar": "money",
+ "price": "$7",
+ "eyebrow": "Life admin · 2 pages",
+ "h1": "Could someone find your accounts and your wishes tonight? Most households could not.",
+ "sub": "The four documents every adult needs, plus a one-page list of where everything is kept.",
+ "cta": "Get it for $7",
+ "heroMicro": "<b>Printable PDF.</b> Print it or fill it in on a tablet. Instant download.",
+ "previews": [
+  "img/grown-up-paperwork-checklist-1.jpg",
+  "img/grown-up-paperwork-checklist-2.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "The one-page account and policy locator"
+ ],
+ "preview_alts": [
+  "First page of the Grown-Up Paperwork Checklist: will, beneficiary designations, durable power of attorney and health care directive",
+  "The one-page account list with columns for account or policy, institution, where the details are, and beneficiary or joint holder"
+ ],
+ "uvp": [
+  {
+   "h": "Four documents, checked off",
+   "p": "Will, beneficiaries, power of attorney, health care directive, each with a done box and a review date."
+  },
+  {
+   "h": "One page for where things are",
+   "p": "Accounts and policies, who holds them and where the details are kept."
+  },
+  {
+   "h": "No passwords on the page",
+   "p": "You note where details are kept, not the details themselves."
+  }
+ ],
+ "stat": {
+  "n": "26%",
+  "t": "are very confident they split spare money well across debt, savings and retirement. Paperwork is the part of money planning that lets someone else carry on if you cannot.",
+  "src": "Vestwell, June 2026"
+ },
+ "benefits": [
+  {
+   "h": "A short list, not a project",
+   "p": "Four items you can book an hour for, one at a time."
+  },
+  {
+   "h": "Everything findable",
+   "p": "One page that tells a trusted person where to look."
+  },
+  {
+   "h": "A review date",
+   "p": "Each item has a space to note when you last checked it."
+  },
+  {
+   "h": "A way to start the talk",
+   "p": "A line to say out loud to the person you share life admin with."
+  }
+ ],
+ "inside": [
+  "<b>The four-document checklist.</b> Will, beneficiary designations, durable power of attorney, health care directive.",
+  "<b>One-page account and policy locator.</b> Institution, where the details are, beneficiary or joint holder. No passwords.",
+  "<b>A line to say out loud.</b> To start the conversation at home.",
+  "<b>Printable PDF.</b> 2 pages, US Letter, prints on A4 at fit to page."
+ ],
+ "steps": {
+  "title": "Check, store, review",
+  "items": [
+   {
+    "h": "Check what is done",
+    "p": "Tick each document you already have and book an hour for what is not."
+   },
+   {
+    "h": "Keep it somewhere safe",
+    "p": "Store the page safely and tell one person where it is."
+   },
+   {
+    "h": "Review once a year",
+    "p": "And after any big life change."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if the paperwork keeps slipping",
+  "yes": [
+   "You have accounts and policies spread across several places.",
+   "You have been meaning to get a will or beneficiaries in order.",
+   "You want a short checklist, not a legal guide."
+  ],
+  "no": [
+   "You need legal drafting or advice for your situation. Speak to a qualified attorney or estate planner.",
+   "You want a password manager. This page deliberately holds no passwords.",
+   "You want a money plan. See What to Fund First, which is free."
+  ]
+ },
+ "proof": {
+  "title": "Why this is worth an hour",
+  "stats": [
+   {
+    "n": "26%",
+    "t": "are very confident they split spare money well across debt, savings and retirement. Among people earning $200K+, 64% are only somewhat confident.",
+    "src": "Vestwell, June 2026"
+   },
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "29%",
+    "t": "report money dysmorphia: feeling broke despite a healthy position.",
+    "src": "Intuit Credit Karma, via Finder"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get the paperwork into one place",
+  "p": "Four documents, one locator page, two printed pages.",
+  "items": [
+   "Four-document checklist",
+   "One-page account and policy locator",
+   "A line to start the conversation"
+  ]
+ },
+ "faq": [
+  {
+   "q": "Is this legal advice?",
+   "a": "No. It is a checklist. General education, not legal advice. Rules differ by state and country, so for anything beyond the basics speak to a qualified attorney or estate planner."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "Filling in the checklist and locator is a sitting. Getting the documents themselves done takes longer, which is why each has its own done box."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Any adult. It is most useful if you have dependants, shared accounts or retirement accounts and policies with beneficiaries."
+  },
+  {
+   "q": "Should I write passwords on it?",
+   "a": "No. Write where the details are kept, such as a password manager or a sealed envelope, and who knows."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. It is a PDF, so any PDF app works. It also prints on US Letter or on A4 at fit to page."
+  },
+  {
+   "q": "Does it include templates for a will?",
+   "a": "No. It lists what you need and tracks it. It does not provide legal documents."
+  }
+ ],
+ "related": {
+  "name": "The Couples Money Reset",
+  "price": "$19",
+  "slug": "couples-money-reset",
+  "blurb": "Includes family situations such as supporting a parent, inheritance and wills, alongside five conversations for couples."
+ },
+ "final": {
+  "h": "One page that says where everything is.",
+  "p": "Fill it in once, review it each year."
+ },
+ "disclaimer": "General education, not legal advice. Rules differ by state and country. Personal use only.",
+ "free": false
+}

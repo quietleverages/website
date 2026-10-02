@@ -1,0 +1,159 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/small-gathering-planner-2.jpg",
+  "img/small-gathering-planner-3.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "small-gathering-planner",
+ "title": "Small Gathering Planner",
+ "pillar": "people",
+ "price": "$7",
+ "cta": "Get the planner for $7",
+ "priceNote": "One-time $7 on Gumroad. Instant download.",
+ "eyebrow": "Planner \u00b7 3 pages \u00b7 People",
+ "h1": "A good gathering starts with one sentence about why, not a menu.",
+ "sub": "Plan a dinner, a walk or a game night for six to ten people: a purpose sentence, a guest list, an invitation, and a follow-up.",
+ "preview_labels": [
+  "",
+  "Run it on purpose"
+ ],
+ "preview_alts": [
+  "Small Gathering Planner page 2: Why, who, when, with a purpose sentence, a guest list with why they'd like this, and the invitation's first line",
+  "Small Gathering Planner page 3: Run it on purpose, with the first ten minutes, the one shared moment, food and drink, how it ends and afterwards"
+ ],
+ "uvp": [
+  {
+   "h": "Start with why",
+   "p": "Write one purpose sentence first. If it is vague, the evening will be too."
+  },
+  {
+   "h": "An invitation with a reason",
+   "p": "Name the day, the time and why this group, in the first line."
+  },
+  {
+   "h": "A follow-up page",
+   "p": "So the evening leads somewhere: who to follow up with, and the next date."
+  }
+ ],
+ "stat": {
+  "n": "20 min",
+  "t": "In-person time with friends fell from about 60 minutes a day in 2003 to about 20 in 2020. A small gathering with a purpose puts a few hours back on the calendar.",
+  "src": "American Time Use Survey data"
+ },
+ "benefits": [
+  {
+   "h": "A guest list with a reason",
+   "p": "Write why each person might like this, so the room has something in common."
+  },
+  {
+   "h": "A plan for the first ten minutes",
+   "p": "Who arrives, what they do with their hands, who meets whom."
+  },
+  {
+   "h": "One shared moment",
+   "p": "A question for the table, a toast, a walk or a game that turns guests into participants."
+  },
+  {
+   "h": "An evening that leads somewhere",
+   "p": "Name who to follow up with and the next date before the night is over."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "Three pages from purpose to follow-up",
+ "insideLead": "Write the purpose first. Invite with a specific day, time and reason.",
+ "inside": [
+  "<b>Purpose sentence, guest list and invitation.</b>",
+  "<b>The first ten minutes</b> and one shared moment.",
+  "<b>Follow-up page</b> so the evening leads somewhere.",
+  "<b>Printable PDF.</b> US Letter, 3 pages, prints on A4 at 'fit to page'."
+ ],
+ "steps": {
+  "title": "Why, who, then the evening",
+  "items": [
+   {
+    "h": "Write the purpose",
+    "p": "One sentence about why you are getting together."
+   },
+   {
+    "h": "Invite with a reason",
+    "p": "A specific day, time and reason, to people who might like each other."
+   },
+   {
+    "h": "Plan the evening",
+    "p": "The first ten minutes, one shared moment, and the follow-up."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you want to host, but keep not doing it",
+  "yes": [
+   "You want to bring a few friends together and are not sure how.",
+   "You want a dinner, a walk or a game night with some shape.",
+   "You want the evening to lead to a next date."
+  ],
+  "no": [
+   "You want a menu or event-styling guide. This plans purpose, people and moments.",
+   "You want a daily practice. See The 30-Day Friendship Practice.",
+   "You are planning a large event. This is for six to ten people."
+  ]
+ },
+ "proof": {
+  "title": "Why gathering small helps, in numbers",
+  "stats": [
+   {
+    "n": "29%",
+    "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group.",
+    "src": "Harvard Making Caring Common, 2024"
+   },
+   {
+    "n": "~50 hrs",
+    "t": "of time together to move from acquaintance to casual friend; about 90 to friend, 200+ to close friend.",
+    "src": "Jeffrey Hall, University of Kansas, 2018"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Plan the evening in one sitting",
+  "p": "Three pages that take you from a vague 'we should get together' to a date.",
+  "items": [
+   "Purpose sentence, guest list and invitation",
+   "First ten minutes and one shared moment",
+   "Follow-up page"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How many people is it for?",
+   "a": "It is written for six to ten people who might like each other."
+  },
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter, 3 pages. It prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. Any PDF app that lets you write on a page will do, or print it."
+  },
+  {
+   "q": "Do I need to cook?",
+   "a": "No. The page covers food and drink in a line, kept simple. It works for a walk or a game night as well."
+  },
+  {
+   "q": "Is it advice?",
+   "a": "No. It is a planning page. General education only."
+  }
+ ],
+ "related": {
+  "name": "The 30-Day Friendship Practice",
+  "price": "$19",
+  "slug": "friendship-practice",
+  "blurb": "One small social drill a day for thirty days, with sixty scripts and a tracker."
+ },
+ "final": {
+  "h": "Pick a date and write the why.",
+  "p": "One sentence, one guest list, one invitation."
+ }
+}

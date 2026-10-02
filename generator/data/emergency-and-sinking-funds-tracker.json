@@ -1,0 +1,164 @@
+{
+ "slug": "emergency-and-sinking-funds-tracker",
+ "title": "Emergency and Sinking Funds Tracker",
+ "pillar": "money",
+ "price": "$7",
+ "eyebrow": "Money tool · Google Sheet + printable",
+ "h1": "The car insurance bill is not an emergency. It is a date you already know.",
+ "sub": "Size your emergency fund from your essentials, and turn predictable costs into small monthly transfers.",
+ "cta": "Get it for $7",
+ "heroMicro": "<b>Google Sheet (.xlsx) + printable PDF.</b> Opens in Google Sheets or Excel. Instant download.",
+ "previews": [
+  "img/emergency-and-sinking-funds-tracker-1.jpg",
+  "img/emergency-and-sinking-funds-tracker-2.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Sinking funds page: target, due date, months left, per month"
+ ],
+ "preview_alts": [
+  "First page of the printable tracker: essential monthly costs, months of cover and a target, with squares to color in",
+  "Sinking funds page with columns for fund, target, due date, months left, per month and saved"
+ ],
+ "uvp": [
+  {
+   "h": "Sized from your essentials",
+   "p": "Your emergency fund target comes from what you must pay each month."
+  },
+  {
+   "h": "Monthly amount from the due date",
+   "p": "Enter a cost and when it is due. The sheet works out what to set aside."
+  },
+  {
+   "h": "Progress you can see",
+   "p": "Months to go and a progress bar show how close you are."
+  }
+ ],
+ "stat": {
+  "n": "88%",
+  "t": "of US adults began 2026 feeling financial stress. Known costs that arrive as surprises make it worse. Sinking funds take the surprise out.",
+  "src": "NEFE, Jan 2026"
+ },
+ "benefits": [
+  {
+   "h": "A target that fits you",
+   "p": "Essential monthly costs times the months of cover you choose gives one number."
+  },
+  {
+   "h": "Predictable costs, planned",
+   "p": "Each non-monthly cost gets a due date and a monthly transfer."
+  },
+  {
+   "h": "A clear read on progress",
+   "p": "Months left and a progress bar, so you can see it grow."
+  },
+  {
+   "h": "Paper copy included",
+   "p": "A printable version with squares to color in as you save."
+  }
+ ],
+ "inside": [
+  "<b>Google Sheet (.xlsx).</b> Emergency fund sized from essentials, months to go, progress bar.",
+  "<b>Sinking funds tab.</b> Works out the monthly amount from each due date.",
+  "<b>Printable PDF.</b> Emergency fund page and sinking funds page.",
+  "<b>Opens in Google Sheets or Excel.</b> In Google Sheets, use File > Import."
+ ],
+ "steps": {
+  "title": "Size it, list it, divide it",
+  "items": [
+   {
+    "h": "Size the fund",
+    "p": "Add your essential monthly costs and choose months of cover. Three is common; it depends on how steady your income is."
+   },
+   {
+    "h": "List known costs",
+    "p": "Every non-monthly cost with its due date."
+   },
+   {
+    "h": "Set the transfer",
+    "p": "Divide what is left by the months remaining. That is the monthly amount."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if the same bills keep ambushing you",
+  "yes": [
+   "You have annual or irregular costs that always feel like a hit.",
+   "You want a target for your emergency fund that is based on your own numbers.",
+   "You like a sheet that does the dividing."
+  ],
+  "no": [
+   "You want to know what order to fund things in. See What to Fund First, which is free.",
+   "You have high-interest debt to rank. See the Debt Payoff Planner.",
+   "You want investing guidance. This is a savings tracker."
+  ]
+ },
+ "proof": {
+  "title": "Why a buffer matters",
+  "stats": [
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "26%",
+    "t": "are very confident they split spare money well across debt, savings and retirement. Among people earning $200K+, 64% are only somewhat confident.",
+    "src": "Vestwell, June 2026"
+   },
+   {
+    "n": "29%",
+    "t": "report money dysmorphia: feeling broke despite a healthy position.",
+    "src": "Intuit Credit Karma, via Finder"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Turn known costs into small transfers",
+  "p": "A sheet that sizes the fund and does the dividing, plus a printable copy.",
+  "items": [
+   "Google Sheet (.xlsx) with emergency fund and progress bar",
+   "Sinking funds tab with monthly amounts",
+   "Printable PDF"
+  ]
+ },
+ "faq": [
+  {
+   "q": "Do I need Google Sheets?",
+   "a": "No. It is an .xlsx file that opens in Google Sheets (File > Import) or Excel. The printable PDF also works on its own."
+  },
+  {
+   "q": "How many months should I choose?",
+   "a": "Three months of essentials is a common start. How many suits you depends on how steady your income is. The sheet lets you set your own."
+  },
+  {
+   "q": "What is a sinking fund?",
+   "a": "A small amount set aside each month for a cost you know is coming, such as an annual bill. The tab works out the monthly figure from the due date."
+  },
+  {
+   "q": "How long does setup take?",
+   "a": "List your essentials and your known costs with due dates. Most people finish in one sitting."
+  },
+  {
+   "q": "Can I print it?",
+   "a": "Yes. US Letter, and it prints on A4 at fit to page. It also works in any PDF app on a tablet."
+  },
+  {
+   "q": "Is this financial advice?",
+   "a": "No. General education, not financial advice."
+  }
+ ],
+ "related": {
+  "name": "The Couples Money Reset",
+  "price": "$19",
+  "slug": "couples-money-reset",
+  "blurb": "If you share money, five conversations and a fair-split rule so the buffer is built together."
+ },
+ "final": {
+  "h": "Know the date, know the amount.",
+  "p": "Size the fund and set the transfers once."
+ },
+ "disclaimer": "General education, not financial advice. Personal use only.",
+ "free": false
+}

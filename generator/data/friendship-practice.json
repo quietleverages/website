@@ -1,0 +1,85 @@
+{
+  "slug": "friendship-practice",
+  "title": "The 30-Day Friendship Practice",
+  "pillar": "people",
+  "free": false,
+  "price": "$19",
+  "priceNote": "One-time $19 on Gumroad. Instant download.",
+  "eyebrow": "$19 kit · 30 days · People",
+  "h1": "You keep saying 'we should get together sometime'. Thirty small drills turn it into standing plans.",
+  "sub": "One drill a day for thirty days, sixty scripts for the moments that matter, and a tracker so you can see what moved.",
+  "cta": "Get it for $19",
+  "heroMicro": "<b>PDF guide + Google Sheet + Notion.</b> Do Day 0 tonight, start Day 1 tomorrow.",
+  "previews": [
+    "img/friendship-practice-1.jpg",
+    "img/friendship-practice-5.jpg",
+    "img/friendship-practice-14.jpg",
+    "img/friendship-practice-21.jpg"
+  ],
+  "preview_labels": ["", "Page 5: Week 1, Presence", "Page 14: the library of sixty scripts", "Page 21: thirty days on one page"],
+  "preview_alts": [
+    "Cover of The 30-Day Friendship Practice guide",
+    "Guide page for Week 1, Presence, listing daily drills with the scripts to use and a done-when line for each",
+    "Guide page headed Sixty scripts, with word-for-word lines for the first minute of a conversation",
+    "Tracker page listing all thirty drills by day with a tick box beside each"
+  ],
+  "uvp": [
+    {"h": "One drill a day", "p": "Thirty daily drills across four weekly themes: presence, friction, friendship and energy."},
+    {"h": "Sixty scripts", "p": "Word-for-word lines, organised by the moment you are in. Adapt the brackets, keep the shape."},
+    {"h": "A tracker that shows what moved", "p": "A Day 0 baseline, a daily log and Sunday scores, so you can compare day 30 with day 0."}
+  ],
+  "stat": {"n": "+550%", "t": "US searches for 'why is it hard to make friends as an adult' are up 550% on last year. Reading about it does nothing. The habits are physical, and they come from repetition in low-stakes rooms.", "src": "Google Trends, US, Jan-Sep 2026 vs 2025"},
+  "benefits": [
+    {"h": "Low stakes first", "p": "Week 1 starts in the coffee line and in a meeting you arrive early to. No party, no forced networking."},
+    {"h": "Words ready when you need them", "p": "Sixty scripts for the first minute, keeping a conversation going, asking for time, and the moments that are harder."},
+    {"h": "The hard conversation, end to end", "p": "Week 2 takes the conversation you have been avoiding from first sentence to close, plus one 'no', held."},
+    {"h": "Progress you can see", "p": "Four numbers on Day 0 and again on Day 30, with a Sunday score between. You will know what moved."}
+  ],
+  "benefitsTitle": "What changes after thirty days",
+  "insideTitle": "The guide, the tracker and the scripts",
+  "insideLead": "Everything is in the guide. The tracker and the Notion import are there if you would rather log it digitally.",
+  "inside": [
+    "<b>The guide (PDF).</b> 30 daily drills, four Sunday scorecards, 60 scripts, AI rehearsal prompts.",
+    "<b>Tracker (Google Sheet).</b> Day 0 baseline, daily log, Sunday scores, people in progress, all 60 scripts.",
+    "<b>Notion import.</b> Pages and databases.",
+    "<b>Four weekly themes.</b> Presence, friction, friendship, energy."
+  ],
+  "steps": {
+    "title": "Ten minutes tonight, a few minutes a day",
+    "items": [
+      {"h": "Day 0: measure", "p": "Write four numbers and one list before you change anything, so Day 30 has something to compare to."},
+      {"h": "Days 1 to 28: one drill a day", "p": "Each drill names the scripts to use and what counts as done. A Sunday score closes each week."},
+      {"h": "Days 29 and 30: compare", "p": "Twenty minutes with your Day 0 numbers and four weekly scores, then re-baseline and invite someone."}
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if you want a habit, not a pep talk",
+    "yes": ["You say 'we should get together sometime' and nothing gets booked.", "You have done the Friendship Audit and want to close the gaps it showed.", "You can spare a few minutes a day for a month."],
+    "no": ["You are looking for therapy or clinical support. This is a practice plan.", "You want to read about friendship. This is something you run, one day at a time.", "You want a single quick tool first. Start with the free Friendship Audit."]
+  },
+  "proof": {
+    "title": "Why a month of repetition, in numbers",
+    "stats": [
+      {"n": "~90 hrs", "t": "of time together to move from acquaintance to friend, and 200+ to a close friend.", "src": "Jeffrey Hall, University of Kansas, 2018"},
+      {"n": "12%", "t": "of Americans have no close friends, up from 3% in 1990.", "src": "Survey Center on American Life, 2021"},
+      {"n": "29%", "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group.", "src": "Harvard Making Caring Common, 2024"}
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Start with Day 0 tonight",
+    "p": "Low stakes first. One small move a day, for thirty days.",
+    "items": ["The guide (PDF): 30 drills, 4 Sunday scorecards, 60 scripts", "Tracker as a Google Sheet", "Notion import", "Add a second kit for $12 at checkout"]
+  },
+  "faq": [
+    {"q": "What format is it?", "a": "A PDF guide, a Google Sheet tracker and a Notion import. The guide has everything you need on its own, including the scripts and a one-page tracker."},
+    {"q": "How much time does it take each day?", "a": "Day 0 takes about ten minutes. After that, each daily drill is built to take about five minutes."},
+    {"q": "Who is it for?", "a": "Anyone who wants to make or keep friends as an adult and would rather run small drills than read about it. It starts in low-stakes rooms, so you do not need a social calendar to begin."},
+    {"q": "Do I need Notion or Google Sheets?", "a": "No. The PDF guide works on its own. The sheet and the Notion pages are for logging digitally."},
+    {"q": "Can I print it or use it on a tablet?", "a": "Both. Print the guide and tick off each day, or work from it on a tablet with any PDF app."},
+    {"q": "Is this therapy or mental-health advice?", "a": "No. It is a practice plan and general education only."}
+  ],
+  "related": {"name": "The Quiet Reset 2027", "price": "$47 early-bird, then $67", "slug": "quiet-reset-2027", "blurb": "A year planner across twelve life dimensions: pick three, keep nine on maintenance. Includes this practice. Opens Nov 24.", "eyebrow": "Go further"},
+  "final": {"h": "Do Day 0 tonight. Start Day 1 tomorrow.", "p": "Thirty days, one small move at a time."},
+  "disclaimer": "General education only. Not medical or mental-health advice."
+}

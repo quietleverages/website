@@ -1,0 +1,83 @@
+{
+  "slug": "what-to-fund-first",
+  "title": "What to Fund First",
+  "pillar": "money",
+  "free": true,
+  "price": "Free",
+  "priceNote": "Free on Gumroad. Pay what you want from $0. Instant download.",
+  "eyebrow": "Free tool · 7 steps · Money",
+  "h1": "Spare money after payday, and seven goals competing for it? Fund them in this order.",
+  "sub": "Find the first step you have not finished, then set two automatic transfers for the day after payday. That is your only job.",
+  "cta": "Get the free tool",
+  "heroMicro": "<b>PDF + Google Sheet.</b> No email wall, no course. Find your step tonight.",
+  "previews": [
+    "img/what-to-fund-first-1.jpg",
+    "img/what-to-fund-first-2.jpg",
+    "img/what-to-fund-first-3.jpg"
+  ],
+  "preview_labels": ["", "Page 2: the seven steps, in order", "Page 3: three accounts, two automatic transfers"],
+  "preview_alts": [
+    "Cover of What to Fund First, a free tool",
+    "Page listing seven money steps in order, starting with a starter buffer, employer match and high-interest debt, each with a checkbox",
+    "Page showing three accounts, Bills, Future and Spending, and a space to write your own numbers"
+  ],
+  "uvp": [
+    {"h": "One step at a time", "p": "Seven steps in sequence. Find the first one you have not finished and ignore the rest for now."},
+    {"h": "Two automatic transfers", "p": "The day after payday, two transfers leave your Bills account. When Spending is empty, you stop."},
+    {"h": "A sheet that finds your step", "p": "Enter your numbers and it tells you which step you are on and what to move each month."}
+  ],
+  "stat": {"n": "26%", "t": "of people are very confident they split spare money well across debt, savings and retirement. The problem was never knowledge. It was the order.", "src": "Vestwell, June 2026"},
+  "benefits": [
+    {"h": "Your step, found", "p": "Tick off what is done. The first unticked step is the only one you work on."},
+    {"h": "The order, settled", "p": "Starter buffer, employer match, high-interest debt, emergency fund and on, in the sequence most money books agree on."},
+    {"h": "Automation, sized", "p": "Three accounts and two transfers that run without a decision each month. The Google Sheet works out what to move."},
+    {"h": "A ten-minute monthly check", "p": "Did the transfer leave on schedule? Is every bill clear? Is the step you are on moving? Nothing else needs checking."}
+  ],
+  "benefitsTitle": "What you leave with",
+  "insideTitle": "A printable and a sheet that tells you where you are",
+  "insideLead": "A cover and two working pages, plus the same logic as a Google Sheet.",
+  "inside": [
+    "<b>Printable (PDF).</b> Two working pages plus a cover: the seven steps in order, and the three-account setup.",
+    "<b>Google Sheet.</b> Enter your numbers and it tells you which step you are on and what to move each month.",
+    "<b>One exception, spelled out.</b> What to do first if you carry high-interest debt.",
+    "<b>Built from The Finance Architect</b> by Quiet Leverages."
+  ],
+  "steps": {
+    "title": "Find your step, then automate it",
+    "items": [
+      {"h": "Find your step", "p": "Go down the seven steps and stop at the first one you have not finished."},
+      {"h": "Enter your numbers", "p": "Take-home pay, essential costs, the emergency fund target. The sheet shows the step and the monthly amount."},
+      {"h": "Set two transfers", "p": "One to a Future account for your step, one to a Spending account. Then leave them alone."}
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if the order is the problem",
+    "yes": ["You have some spare money each month and no clear order for it.", "You keep going back and forth between paying debt, saving and investing.", "You want to set it up once and stop second-guessing."],
+    "no": ["You want investment, tax or product recommendations. This is general education.", "You want a budget with every category tracked. This sets one order and two transfers.", "You share money with a partner and need the conversations. See The Couples Money Reset."]
+  },
+  "proof": {
+    "title": "Why the order matters, in numbers",
+    "stats": [
+      {"n": "88%", "t": "of US adults began 2026 feeling financial stress.", "src": "NEFE, Jan 2026"},
+      {"n": "64%", "t": "of people earning $200K+ are only 'somewhat' confident they split spare money well.", "src": "Vestwell, June 2026"},
+      {"n": "29%", "t": "report money dysmorphia, feeling broke despite a healthy position.", "src": "Intuit Credit Karma, via Finder"}
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Find your step tonight",
+    "p": "It is free. Your only job is the first step you have not finished.",
+    "items": ["Printable PDF: seven steps and the three-account setup", "Google Sheet that finds your step", "A monthly ten-minute check"]
+  },
+  "faq": [
+    {"q": "Is it really free?", "a": "Yes. Gumroad lets you pay what you want, starting at $0. If it helps and you want to leave something, you can. You do not have to."},
+    {"q": "How long does it take?", "a": "The printable is a cover and two working pages, so reading it is quick. Setting up the two automatic transfers is a one-time job at your bank."},
+    {"q": "What if I have credit-card debt?", "a": "The tool covers it. If you carry debt above about 7% APR, build the one-month starter buffer first, then attack the debt, then return to the full emergency fund."},
+    {"q": "Does it only work for US accounts?", "a": "The printable names US accounts such as a 401(k) and a Roth IRA, and the contribution limits change each year. The idea of working in a fixed order still applies elsewhere, using your own equivalents."},
+    {"q": "Can I print it or use it on a tablet?", "a": "Both. Print the PDF, or fill it in on a tablet with any PDF app. The Google Sheet works in your browser."},
+    {"q": "Is this financial advice?", "a": "No. It is a planning tool and general education only. For decisions about taxes or your own situation, speak to a qualified adviser."}
+  ],
+  "related": {"name": "The Couples Money Reset", "price": "$19", "slug": "couples-money-reset", "blurb": "If you share money with a partner: five conversations with opening lines, three account models, and a twenty-minute monthly money date."},
+  "final": {"h": "One step. Two transfers. The day after payday.", "p": "Find the first step you have not finished and set it running."},
+  "disclaimer": "General education only. Not financial advice. Built from The Finance Architect by Quiet Leverages."
+}

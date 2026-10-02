@@ -1,0 +1,161 @@
+{
+ "slug": "12-dimension-life-audit",
+ "title": "12-Dimension Life Audit",
+ "pillar": "reset",
+ "free": false,
+ "price": "$7",
+ "cta": "Get it for $7",
+ "priceNote": "Instant download on Gumroad. Print it or use it on a tablet.",
+ "eyebrow": "Audit \u00b7 4 pages \u00b7 Reset",
+ "h1": "Score twelve areas of your life, then choose the three that would lift the rest.",
+ "sub": "Each dimension gets a 1 to 5 score, one fact and one concern. Then pick three and set a minimum for the other nine.",
+ "heroMicro": "<b>Printable PDF.</b> US Letter, prints fine on A4 at 'fit to page'.",
+ "covertag": "Real page from the product",
+ "previews": [
+  "img/la-2.jpg",
+  "img/la-3.jpg",
+  "img/la-4.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Pick three, nine on maintenance",
+  "The minimum for the other nine"
+ ],
+ "preview_alts": [
+  "Audit page titled Twelve dimensions, with twelve scored boxes",
+  "Audit page titled Three active, nine on maintenance, with why-this-one prompts",
+  "Audit page titled The minimum for the other nine, a table of twelve rows"
+ ],
+ "uvp": [
+  {
+   "h": "Twelve dimensions, one page",
+   "p": "Score each from 1 to 5 and write one fact and one concern."
+  },
+  {
+   "h": "Pick three",
+   "p": "A page with why-this-one prompts, so the choice is written, not felt."
+  },
+  {
+   "h": "Maintenance for nine",
+   "p": "A table of the minimum you will keep for everything else."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "See the whole picture",
+   "p": "Twelve areas side by side, so a single worry does not fill the view."
+  },
+  {
+   "h": "A reasoned choice",
+   "p": "Three areas with a reason for each, and what would be different in ninety days."
+  },
+  {
+   "h": "Permission to hold the rest steady",
+   "p": "A written minimum for the other nine means they are not forgotten."
+  },
+  {
+   "h": "A route to the full planner",
+   "p": "The Quiet Reset 2027 builds a year on these same twelve dimensions."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "What's in the download",
+ "insideLead": "Score the twelve, then choose three.",
+ "inside": [
+  "<b>12 dimensions.</b> Each with a 1 to 5 score, one fact and one concern.",
+  "<b>A pick-three page.</b> With why-this-one prompts.",
+  "<b>A maintenance table.</b> The minimum you will keep for the other nine.",
+  "<b>4 pages, undated.</b>"
+ ],
+ "steps": {
+  "title": "Score, pick, set a minimum",
+  "items": [
+   {
+    "h": "Score twelve",
+    "p": "Rate each dimension 1 to 5 with a fact and a concern."
+   },
+   {
+    "h": "Pick three",
+    "p": "Choose the three that would lift the rest and say why."
+   },
+   {
+    "h": "Set the minimum",
+    "p": "Write the smallest thing you will keep up for the other nine."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "Is this the right size?",
+  "yes": [
+   "You feel pulled in several directions and want to see them together.",
+   "You want to choose by reasons, on paper.",
+   "You want a short tool before a full planner."
+  ],
+  "no": [
+   "You want a year-long plan. See The Quiet Reset 2027.",
+   "You want a clinical assessment. This is a planning page."
+  ]
+ },
+ "proof": {
+  "title": "The numbers behind it",
+  "stats": [
+   {
+    "n": "31 of 100",
+    "t": "top posts in r/HENRYfinance are about feeling anxious, burnt out or empty despite doing well.",
+    "src": "Quiet Leverages analysis of Reddit top posts, Oct 2025-Sep 2026"
+   },
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get 12-Dimension Life Audit",
+  "p": "One small tool, one sitting.",
+  "items": [
+   "Printable PDF, 4 pages",
+   "Twelve scored dimensions",
+   "Pick-three page and maintenance table"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, 4 pages. Print it or use it on a tablet with any PDF app."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "It is four short pages, built to finish in one sitting."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone who wants to see their whole life on one page and choose where to focus."
+  },
+  {
+   "q": "Will it print on A4?",
+   "a": "Yes. It is US Letter and prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Is it dated?",
+   "a": "No. It is undated."
+  },
+  {
+   "q": "Is this advice?",
+   "a": "No. It is a planning worksheet and general education, not medical, psychological, legal, financial or employment advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "The full version: review 2026, score twelve dimensions, pick three, run four 90-day cycles, and keep it to 105 minutes a week."
+ },
+ "final": {
+  "h": "Score twelve areas of your life, then choose the three that would lift the rest.",
+  "p": "Each dimension gets a 1 to 5 score, one fact and one concern. Then pick three and set a minimum for the other nine."
+ },
+ "disclaimer": "Personal use only. General education; not medical, psychological, legal, financial or employment advice. By Quiet Leverages."
+}

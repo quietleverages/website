@@ -1,0 +1,146 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/ai-prompts-for-life-planning-2.jpg",
+  "img/ai-prompts-for-life-planning-5.jpg",
+  "img/ai-prompts-for-life-planning-6.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "ai-prompts-for-life-planning",
+ "title": "AI Prompts for Life Planning",
+ "pillar": "reset",
+ "price": "$9",
+ "cta": "Get the prompts for $9",
+ "priceNote": "One-time $9 on Gumroad. Instant download.",
+ "eyebrow": "Prompt pack \u00b7 30 prompts \u00b7 Reset",
+ "h1": "Ask an AI to plan your year and it mostly tells you the plan sounds great.",
+ "sub": "Thirty copy-and-paste prompts for ChatGPT, Claude or Gemini that separate facts from feelings and push back when a plan is too big.",
+ "preview_labels": [
+  "",
+  "People (Social Life) prompts",
+  "Money (Financial Life) prompts"
+ ],
+ "preview_alts": [
+  "AI Prompts for Life Planning page 2: the Start the year prompts, including run my 2026 review and pick three of twelve",
+  "AI Prompts for Life Planning page 5: People prompts such as map my circles and rehearse the hard conversation",
+  "AI Prompts for Life Planning page 6: Money prompts such as what to fund first and avalanche or snowball"
+ ],
+ "uvp": [
+  {
+   "h": "Thirty prompts, seven sections",
+   "p": "Start the year, design the quarter, every Sunday, people, money, work, and Day 90."
+  },
+  {
+   "h": "Facts before feelings",
+   "p": "Prompts are written to separate what happened from what you think it means."
+  },
+  {
+   "h": "Built to push back",
+   "p": "Each one asks the AI to question your plan, so you get a planning partner, not a cheerleader."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "A year-end review that asks questions",
+   "p": "The AI interviews you one question at a time instead of summarising what you already said."
+  },
+  {
+   "h": "A quarter you can test",
+   "p": "Turn a wish into a ninety-day test with one measure, then find the hidden cost."
+  },
+  {
+   "h": "A Sunday review in a few replies",
+   "p": "A set of prompts for the weekly check, so the plan gets read, not filed."
+  },
+  {
+   "h": "Prompts for people, money and work",
+   "p": "The same method applied to the areas where plans usually go quiet."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "Paste, fill the brackets, send",
+ "insideLead": "Each prompt is ready to copy. Remove names and anything private before you paste.",
+ "inside": [
+  "<b>Seven sections.</b> Start the year, design the quarter, every Sunday, people, money, work, Day 90.",
+  "<b>Thirty prompts.</b> Copy, fill the brackets, send.",
+  "<b>Works with ChatGPT, Claude and Gemini.</b>",
+  "<b>Written to push back.</b> Facts separated from feelings."
+ ],
+ "steps": {
+  "title": "Three moves per prompt",
+  "items": [
+   {
+    "h": "Paste the prompt",
+    "p": "Fill in the brackets with your own details."
+   },
+   {
+    "h": "Remove anything private",
+    "p": "Take out names and anything you would not paste into a chat."
+   },
+   {
+    "h": "Ask it to push back",
+    "p": "If a reply feels too agreeable, say so and ask again."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you plan with an AI already",
+  "yes": [
+   "You use ChatGPT, Claude or Gemini and want sharper questions.",
+   "You want a year-end review, a quarter plan and a Sunday check in one place.",
+   "You like to see the facts before the story."
+  ],
+  "no": [
+   "You want an AI to decide for you. These prompts ask it to question you.",
+   "You want a full planner system. See The Quiet Reset 2027.",
+   "You want financial, legal or medical advice. These are planning prompts."
+  ]
+ },
+ "proof": {
+  "title": "Why we built it",
+  "stats": [],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get thirty prompts for the year",
+  "p": "A PDF you can print or keep open beside your chat window.",
+  "items": [
+   "30 copy-and-paste prompts",
+   "Seven sections from Start the year to Day 90",
+   "Works with ChatGPT, Claude and Gemini"
+  ]
+ },
+ "faq": [
+  {
+   "q": "Which AI tools does it work with?",
+   "a": "ChatGPT, Claude and Gemini. The prompts are plain text, so you paste them into whichever you use."
+  },
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter. It prints fine on A4 at 'fit to page', and you can copy the prompts straight from a tablet or computer."
+  },
+  {
+   "q": "Do I need a paid AI account?",
+   "a": "We do not require one. The prompts are plain text and go into any assistant that accepts them."
+  },
+  {
+   "q": "Is it safe to paste my details?",
+   "a": "Take out names and anything private before you paste. The guide says so on page 1."
+  },
+  {
+   "q": "Is it advice?",
+   "a": "No. These are planning prompts. Not financial, legal or medical advice, and an AI reply is not either."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "Score twelve life dimensions, pick three to work on and keep nine on maintenance. 105 minutes a week. Early-bird opens Nov 24."
+ },
+ "final": {
+  "h": "Make the AI ask better questions.",
+  "p": "Thirty prompts, from the year-end review to Day 90."
+ }
+}

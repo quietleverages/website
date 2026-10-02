@@ -1,0 +1,168 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/60-friendship-scripts-2.jpg",
+  "img/60-friendship-scripts-5.jpg",
+  "img/60-friendship-scripts-8.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "60-friendship-scripts",
+ "title": "60 Friendship Scripts",
+ "pillar": "people",
+ "price": "$9",
+ "cta": "Get the scripts for $9",
+ "priceNote": "One-time $9 on Gumroad. Instant download.",
+ "eyebrow": "Scripts \u00b7 60 lines \u00b7 People",
+ "h1": "You liked someone at that event, and the next move was a blank.",
+ "sub": "Sixty ready-to-adapt lines for eight moments, from the first minute to hard conversations, each with when to use it.",
+ "preview_labels": [
+  "",
+  "Familiar face to friend",
+  "Hard conversations"
+ ],
+ "preview_alts": [
+  "60 Friendship Scripts page 2: The first minute, six scripts with a note on when to use each",
+  "60 Friendship Scripts page 5: Familiar face to friend, scripts for a first ask, a second meeting and repairing after going quiet",
+  "60 Friendship Scripts page 8: Hard conversations, scripts for permission, facts and closing with a decision"
+ ],
+ "uvp": [
+  {
+   "h": "The exact words",
+   "p": "Sixty lines you can send as a text or say face to face. Adapt the brackets, keep the shape."
+  },
+  {
+   "h": "Eight moments",
+   "p": "The first minute, familiar face to friend, keeping it going, hard conversations, hosting and more."
+  },
+  {
+   "h": "When to use each",
+   "p": "Every script comes with a short note on the situation it fits."
+  }
+ ],
+ "stat": {
+  "n": "29%",
+  "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group. Many people in that group are not short of kind intent. They are short of the sentence to start with.",
+  "src": "Harvard Making Caring Common, 2024"
+ },
+ "benefits": [
+  {
+   "h": "A first line when you have none",
+   "p": "Scripts for the first minute, written to be said by someone who feels awkward."
+  },
+  {
+   "h": "A way from acquaintance to friend",
+   "p": "Lines for the specific ask, the second meeting and the standing plan."
+  },
+  {
+   "h": "Words for the hard moments",
+   "p": "Lines for saying no, asking for a different path and closing a tense talk with a decision."
+  },
+  {
+   "h": "Plain, warm wording",
+   "p": "Short enough to send as a text. Warm enough to say out loud."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "Sixty lines, grouped by the moment you are in",
+ "insideLead": "Find the moment, adapt the brackets so it sounds like you, and send it.",
+ "inside": [
+  "<b>Sixty scripts</b> across eight moments.",
+  "<b>The first minute, familiar face to friend, keeping it going.</b>",
+  "<b>Hard conversations and hosting.</b>",
+  "<b>When to use it.</b> A short note under every script.",
+  "<b>Printable PDF.</b> US Letter, prints on A4 at 'fit to page'."
+ ],
+ "steps": {
+  "title": "Find it, adapt it, send it",
+  "items": [
+   {
+    "h": "Find the moment",
+    "p": "Look for the section that matches where you are right now."
+   },
+   {
+    "h": "Adapt the brackets",
+    "p": "Change the wording until it sounds like you."
+   },
+   {
+    "h": "Send it",
+    "p": "As a text or face to face. Most people are glad to be asked."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you know what you want to say, but not how",
+  "yes": [
+   "You want to turn a familiar face into a friend.",
+   "You have been meaning to reconnect with someone and do not know how to open.",
+   "You want wording for a no, a boundary or a tense talk."
+  ],
+  "no": [
+   "You want a daily programme. See The 30-Day Friendship Practice.",
+   "You are looking for therapy or clinical support. This is a wording tool.",
+   "You want a motivational read. This is a page of lines to use."
+  ]
+ },
+ "proof": {
+  "title": "Why it is hard to start, in numbers",
+  "stats": [
+   {
+    "n": "12%",
+    "t": "of Americans have no close friends, up from 3% in 1990.",
+    "src": "Survey Center on American Life, 2021"
+   },
+   {
+    "n": "20 min",
+    "t": "In-person time with friends fell from about 60 minutes a day in 2003 to about 20 in 2020.",
+    "src": "American Time Use Survey data"
+   },
+   {
+    "n": "~50 hrs",
+    "t": "of time together to move from acquaintance to casual friend; about 90 to friend, 200+ to close friend.",
+    "src": "Jeffrey Hall, University of Kansas, 2018"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Keep sixty openers where you can reach them",
+  "p": "Print it, or keep the PDF on your phone for the moment you need it.",
+  "items": [
+   "60 scripts across 8 moments",
+   "When to use each one",
+   "Plain wording for a text or face to face"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter. It prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Can I use it on my phone?",
+   "a": "Yes. Any PDF app will open it, so the scripts are with you when you need one."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Adults making or keeping friends, at work, in a new city or after a gap. The scripts work as a text or face to face."
+  },
+  {
+   "q": "How is this different from The 30-Day Friendship Practice?",
+   "a": "This is the scripts only. The Practice adds a guided drill each day for thirty days, weekly scorecards and a tracker."
+  },
+  {
+   "q": "Is it therapy or advice?",
+   "a": "No. It is a wording tool. General education only; not medical, psychological or other professional advice."
+  }
+ ],
+ "related": {
+  "name": "The 30-Day Friendship Practice",
+  "price": "$19",
+  "slug": "friendship-practice",
+  "blurb": "One small social drill a day for thirty days, with sixty scripts and a tracker."
+ },
+ "final": {
+  "h": "Have the sentence ready.",
+  "p": "Sixty lines for the moments that decide whether an acquaintance becomes a friend."
+ }
+}

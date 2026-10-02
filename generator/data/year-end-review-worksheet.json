@@ -1,0 +1,161 @@
+{
+ "slug": "year-end-review-worksheet",
+ "title": "Year-End Review Worksheet",
+ "pillar": "reset",
+ "free": false,
+ "price": "$7",
+ "cta": "Get it for $7",
+ "priceNote": "Instant download on Gumroad. Print it or use it on a tablet.",
+ "eyebrow": "Worksheet \u00b7 5 pages \u00b7 Reset",
+ "h1": "Close the year honestly before you plan the next one.",
+ "sub": "Twelve questions in three parts: what happened, what it cost, and what to keep, alter or stop. Then choose the three areas you will work on next year.",
+ "heroMicro": "<b>Printable PDF.</b> US Letter, prints fine on A4 at 'fit to page'.",
+ "covertag": "Real page from the product",
+ "previews": [
+  "img/ye-2.jpg",
+  "img/ye-3.jpg",
+  "img/ye-4.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "What it cost",
+  "Keep, alter, stop"
+ ],
+ "preview_alts": [
+  "Worksheet page titled What happened, with four prompts and writing lines",
+  "Worksheet page titled What it cost, with four prompts",
+  "Worksheet page titled Keep, alter, stop"
+ ],
+ "uvp": [
+  {
+   "h": "Facts before feelings",
+   "p": "Twelve questions that start with what happened, not how you felt about it."
+  },
+  {
+   "h": "Undated",
+   "p": "Works for any year. Print it in December and fill it in on a quiet evening."
+  },
+  {
+   "h": "Five pages, US Letter",
+   "p": "Short enough to finish in one sitting, prints fine on A4."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "An honest look at the year",
+   "p": "What happened, what it cost, and where your time actually went."
+  },
+  {
+   "h": "Keep, alter, stop",
+   "p": "One thing to keep, one to alter and one to stop, written down."
+  },
+  {
+   "h": "Three areas for next year",
+   "p": "A closing page to choose the three areas you will actually work on."
+  },
+  {
+   "h": "A way into a full plan",
+   "p": "If you want the whole system, The Quiet Reset 2027 starts from this review."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "What's in the download",
+ "insideLead": "Print it, then answer the first part tonight.",
+ "inside": [
+  "<b>12 questions in three parts.</b> What happened, what it cost, keep / alter / stop.",
+  "<b>A closing page.</b> Choose the three areas you will work on next year.",
+  "<b>Undated.</b> Works any year.",
+  "<b>5 pages, US Letter.</b> Prints on A4."
+ ],
+ "steps": {
+  "title": "Three parts, one evening",
+  "items": [
+   {
+    "h": "What happened",
+    "p": "Answer the first set of questions with facts."
+   },
+   {
+    "h": "What it cost",
+    "p": "Note where your time, health and relationships paid."
+   },
+   {
+    "h": "Keep, alter, stop",
+    "p": "Decide, then pick three areas for next year."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "Is this the right size?",
+  "yes": [
+   "You want to look back before you plan forward.",
+   "You like pen and paper and one sitting.",
+   "You want a first step before a full planner."
+  ],
+  "no": [
+   "You want a full year planner. See The Quiet Reset 2027.",
+   "You want a coaching programme. This is a worksheet."
+  ]
+ },
+ "proof": {
+  "title": "The numbers behind it",
+  "stats": [
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get Year-End Review Worksheet",
+  "p": "One small tool, one sitting.",
+  "items": [
+   "Printable PDF, 5 pages",
+   "12 questions in three parts",
+   "A closing page to choose three areas"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, 5 pages. Print it or use it on a tablet with any PDF app."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "It is five pages of short prompts, built to finish in one sitting."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone closing out a year who wants a short, honest review before setting goals."
+  },
+  {
+   "q": "Will it print on A4?",
+   "a": "Yes. It is US Letter and prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Is it dated?",
+   "a": "No. It is undated, so it works for any year."
+  },
+  {
+   "q": "Is this advice?",
+   "a": "No. It is a planning worksheet and general education, not medical, psychological, legal, financial or employment advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "The full version: review 2026, score twelve dimensions, pick three, run four 90-day cycles, and keep it to 105 minutes a week."
+ },
+ "final": {
+  "h": "Close the year honestly before you plan the next one.",
+  "p": "Twelve questions in three parts: what happened, what it cost, and what to keep, alter or stop. Then choose the three areas you will work on next year."
+ },
+ "disclaimer": "Personal use only. General education; not medical, psychological, legal, financial or employment advice. By Quiet Leverages."
+}

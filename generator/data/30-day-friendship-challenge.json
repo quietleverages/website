@@ -1,0 +1,167 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/30-day-friendship-challenge-2.jpg",
+  "img/30-day-friendship-challenge-3.jpg",
+  "img/30-day-friendship-challenge-5.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "30-day-friendship-challenge",
+ "title": "30-Day Friendship Challenge",
+ "pillar": "people",
+ "price": "$7",
+ "cta": "Get the challenge for $7",
+ "priceNote": "One-time $7 on Gumroad. Instant download.",
+ "eyebrow": "Challenge \u00b7 30 days \u00b7 People",
+ "h1": "You keep meaning to see people more. Give it thirty days and one small drill a day.",
+ "sub": "A thirty-day calendar with a named drill each day, from saying hello to hosting. Low stakes first, no forced networking.",
+ "preview_labels": [
+  "",
+  "What to do each day",
+  "Four weekly themes"
+ ],
+ "preview_alts": [
+  "30-Day Friendship Challenge page 2: a thirty-day calendar with a named drill for each day",
+  "30-Day Friendship Challenge page 3: a table explaining what to do for each of the first days' drills",
+  "30-Day Friendship Challenge page 5: the four weeks, Presence, Friction, Friendship and Energy, with Sunday score prompts"
+ ],
+ "uvp": [
+  {
+   "h": "One drill a day",
+   "p": "A named drill for each of thirty days, on one calendar you can stick on a wall."
+  },
+  {
+   "h": "Every drill explained",
+   "p": "A page says what to do for each day, so you are not guessing."
+  },
+  {
+   "h": "Low stakes first",
+   "p": "The early days are small. The later days build up to hosting."
+  }
+ ],
+ "stat": {
+  "n": "29%",
+  "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group. Friendship skills are habits, and habits come from repetition in low-stakes rooms.",
+  "src": "Harvard Making Caring Common, 2024"
+ },
+ "benefits": [
+  {
+   "h": "A plan for the days you would skip",
+   "p": "The calendar names the drill, so you do not have to decide what to do."
+  },
+  {
+   "h": "Four themes, four Sunday scores",
+   "p": "Each week has a theme and a Sunday prompt, so you can see what moved."
+  },
+  {
+   "h": "No forced networking",
+   "p": "The drills are small and ordinary. They are not about collecting contacts."
+  },
+  {
+   "h": "A path to the full practice",
+   "p": "If thirty days works, The 30-Day Friendship Practice adds scripts and a tracker."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "A calendar, the drills, and four Sunday scores",
+ "insideLead": "Do one drill, check it off, and score the week on Sunday.",
+ "inside": [
+  "<b>30-day calendar</b> with a named drill each day.",
+  "<b>A page explaining every drill.</b>",
+  "<b>Four weekly themes</b> with Sunday score prompts.",
+  "<b>Printable PDF.</b> US Letter, prints on A4 at 'fit to page'."
+ ],
+ "steps": {
+  "title": "Do one, check it off, score Sunday",
+  "items": [
+   {
+    "h": "Do one drill a day",
+    "p": "Check it off and write one word about how it went."
+   },
+   {
+    "h": "Score the week",
+    "p": "Use the Sunday prompts for that week's theme."
+   },
+   {
+    "h": "Repeat a week if needed",
+    "p": "If a week did not land, run it again before moving on."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you want a small, steady start",
+  "yes": [
+   "You want a daily nudge without a big social overhaul.",
+   "You want something to check off, not another book to read.",
+   "You are happy to start with low-stakes moments."
+  ],
+  "no": [
+   "You want sixty scripts and a tracker. See The 30-Day Friendship Practice.",
+   "You are looking for therapy or clinical support. This is a practice calendar.",
+   "You want one big weekend of networking. The drills are small by design."
+  ]
+ },
+ "proof": {
+  "title": "Why small and regular wins, in numbers",
+  "stats": [
+   {
+    "n": "20 min",
+    "t": "In-person time with friends fell from about 60 minutes a day in 2003 to about 20 in 2020.",
+    "src": "American Time Use Survey data"
+   },
+   {
+    "n": "12%",
+    "t": "of Americans have no close friends, up from 3% in 1990.",
+    "src": "Survey Center on American Life, 2021"
+   },
+   {
+    "n": "~50 hrs",
+    "t": "of time together to move from acquaintance to casual friend; about 90 to friend, 200+ to close friend.",
+    "src": "Jeffrey Hall, University of Kansas, 2018"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Start Day 1 tomorrow",
+  "p": "A calendar, thirty drills and four Sunday scores in one PDF.",
+  "items": [
+   "30-day calendar with a named drill each day",
+   "A page explaining every drill",
+   "Four weekly themes with Sunday score prompts"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How much time does it take each day?",
+   "a": "One small drill a day. The drills page says what each one involves, so you can look ahead."
+  },
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter, 5 pages. It prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. Any PDF app will do, or print the calendar and tick the boxes."
+  },
+  {
+   "q": "What if I miss a day?",
+   "a": "Pick up where you stopped, or repeat the week before you move on. The Sunday score tells you which."
+  },
+  {
+   "q": "Is it therapy or advice?",
+   "a": "No. It is a practice calendar. General education only; not medical or mental-health advice."
+  }
+ ],
+ "related": {
+  "name": "The 30-Day Friendship Practice",
+  "price": "$19",
+  "slug": "friendship-practice",
+  "blurb": "One small social drill a day for thirty days, with sixty scripts and a tracker."
+ },
+ "final": {
+  "h": "Thirty days, one small drill each.",
+  "p": "Start with a hello. End by hosting."
+ }
+}

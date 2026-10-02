@@ -1,0 +1,167 @@
+{
+ "slug": "salary-negotiation-prep",
+ "title": "Salary Negotiation Prep",
+ "pillar": "work",
+ "price": "$12",
+ "eyebrow": "Career tool · 7-day plan",
+ "h1": "You have worked out you are underpaid. Now you need the number and what to say next.",
+ "sub": "A seven-day plan to prepare for a raise conversation, with a four-line ask and calm responses to the seven most common pushbacks.",
+ "cta": "Get it for $12",
+ "heroMicro": "<b>Printable PDF.</b> 3 pages. Print it or fill it in on a tablet. Instant download.",
+ "previews": [
+  "img/salary-negotiation-prep-1.jpg",
+  "img/salary-negotiation-prep-2.jpg",
+  "img/salary-negotiation-prep-3.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Evidence and number worksheet with the four-line ask",
+  "Seven pushbacks with calm responses"
+ ],
+ "preview_alts": [
+  "First page of Salary Negotiation Prep: a seven-day plan from building the evidence log to booking the meeting",
+  "Worksheet page for your evidence, market range, your number, your real alternative and the four-line ask",
+  "Page of seven common pushbacks, each with a calm response to say next"
+ ],
+ "uvp": [
+  {
+   "h": "Seven days, one step a day",
+   "p": "Evidence, market range, your number, your real alternative, a one-page brief, rehearsal, the meeting."
+  },
+  {
+   "h": "A four-line ask",
+   "p": "What you have delivered, what the market pays, what you are asking for, then stop."
+  },
+  {
+   "h": "Seven pushbacks answered",
+   "p": "Calm lines for 'no budget right now', 'maybe next cycle' and five more."
+  }
+ ],
+ "stat": {
+  "n": "+850%",
+  "t": "Searches for how to negotiate a salary increase in a current job rose 850% in the US, Jan-Sep 2026 against 2025.",
+  "src": "Google Trends, US, Jan-Sep 2026 vs 2025"
+ },
+ "benefits": [
+  {
+   "h": "Evidence before the ask",
+   "p": "Three to five results with numbers, written down before you say a word."
+  },
+  {
+   "h": "A number and a plan B",
+   "p": "A specific number, and what you would want instead if base pay is frozen."
+  },
+  {
+   "h": "A script you have said out loud",
+   "p": "Practise the ask three times before the meeting."
+  },
+  {
+   "h": "Replies ready for the hard moments",
+   "p": "Seven pushbacks, each with a response that stays calm."
+  }
+ ],
+ "inside": [
+  "<b>7-day prep plan.</b> Evidence, market range, your number or plan B, your real alternative, a one-page brief, rehearsal, book the meeting.",
+  "<b>Worksheet.</b> Your evidence and the four-line ask.",
+  "<b>Seven pushbacks.</b> Calm responses for each.",
+  "<b>Printable PDF.</b> 3 pages, US Letter, prints on A4 at fit to page."
+ ],
+ "steps": {
+  "title": "One step a day, then the meeting",
+  "items": [
+   {
+    "h": "Days 1 to 3",
+    "p": "Build the evidence log, find the market range, choose your number."
+   },
+   {
+    "h": "Days 4 and 5",
+    "p": "Write down your real alternative and a one-page brief."
+   },
+   {
+    "h": "Days 6 and 7",
+    "p": "Rehearse the ask out loud, then book a twenty-minute meeting."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you plan to ask in your current job",
+  "yes": [
+   "You have a result or two with numbers and have not yet asked.",
+   "You want a script and answers to the usual pushbacks.",
+   "You would rather prepare on paper than improvise."
+  ],
+  "no": [
+   "You want the full kit with a Google Sheet, career-value calculator and recap email. See The Raise Kit.",
+   "You are negotiating a new job offer. This is written for a raise in your current role.",
+   "You want legal or contract advice. This is a preparation plan."
+  ]
+ },
+ "proof": {
+  "title": "Why preparation matters",
+  "stats": [
+   {
+    "n": "48%",
+    "t": "of workers say they stay in their job out of fear and economic uncertainty.",
+    "src": "Monster, Oct 2025"
+   },
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   },
+   {
+    "n": "108 days",
+    "t": "median from starting a job search to a first offer..",
+    "src": "Huntr, Q1 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Prepare for the conversation in a week",
+  "p": "A seven-day plan, the four-line ask and seven pushbacks, in three printed pages.",
+  "items": [
+   "7-day prep plan",
+   "Worksheet for evidence and the four-line ask",
+   "Seven pushbacks with calm responses"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How long does it take?",
+   "a": "Seven days, one step a day. Most steps take a short sitting. Do not book the meeting until Day 7."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone planning to ask for more pay in their current job."
+  },
+  {
+   "q": "Will it tell me what number to ask for?",
+   "a": "It walks you through finding the market range and choosing your number. The figure itself is yours to decide."
+  },
+  {
+   "q": "What if my manager says no?",
+   "a": "Day 3 has you write a plan B for when base pay is frozen, such as a bonus, a title change or a training budget. The pushbacks page also covers common objections."
+  },
+  {
+   "q": "Can I print it or use it on a tablet?",
+   "a": "Yes. It is a PDF, so any PDF app works. It prints on US Letter or on A4 at fit to page."
+  },
+  {
+   "q": "Is this employment or legal advice?",
+   "a": "No. General education, not employment or legal advice."
+  }
+ ],
+ "related": {
+  "name": "The Raise Kit",
+  "price": "$19",
+  "slug": "raise-kit",
+  "blurb": "The fuller version: a Google Sheet with a career-value calculator, a recap email and what to do after a no."
+ },
+ "final": {
+  "h": "Know your number before you book the meeting.",
+  "p": "Seven days, one step a day."
+ },
+ "disclaimer": "General education, not employment or legal advice. Personal use only.",
+ "free": false
+}

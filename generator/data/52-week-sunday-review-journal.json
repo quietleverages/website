@@ -1,0 +1,161 @@
+{
+ "slug": "52-week-sunday-review-journal",
+ "title": "52-Week Sunday Review Journal",
+ "pillar": "reset",
+ "free": false,
+ "price": "$9",
+ "cta": "Get it for $9",
+ "priceNote": "Instant download on Gumroad. Print it or use it on a tablet.",
+ "eyebrow": "Journal \u00b7 Undated \u00b7 Reset",
+ "h1": "Fifteen minutes every Sunday, for a whole year.",
+ "sub": "Fifty-two weekly review blocks, three to a page, with four quick numbers each week: people, money, energy and your three.",
+ "heroMicro": "<b>Printable PDF.</b> US Letter, prints fine on A4 at 'fit to page'.",
+ "covertag": "Real page from the product",
+ "previews": [
+  "img/sj-2.jpg",
+  "img/sj-7.jpg",
+  "img/sj-1.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "A quarter at a glance",
+  "How to use it"
+ ],
+ "preview_alts": [
+  "Journal page titled Weeks 1-13, with three weekly review blocks",
+  "Journal page titled Thirteen weeks, looked at once, a quarter summary",
+  "Journal title page: The 52-Week Sunday Review, with how to use it"
+ ],
+ "uvp": [
+  {
+   "h": "Three blocks a page",
+   "p": "Short reviews you can finish in fifteen minutes."
+  },
+  {
+   "h": "Four quarter summaries",
+   "p": "Look back across thirteen weeks at once."
+  },
+  {
+   "h": "Four numbers each week",
+   "p": "People, money, energy and your three."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "A habit with a place to live",
+   "p": "A weekly slot with a page already waiting."
+  },
+  {
+   "h": "A record of the year",
+   "p": "Fifty-two weeks of what happened, so memory does not have to do the work."
+  },
+  {
+   "h": "Quarter checkpoints",
+   "p": "A summary page after each thirteen weeks to see what moved."
+  },
+  {
+   "h": "Room to grow",
+   "p": "The Quiet Reset 2027 adds the planning around the weekly review."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "What's in the download",
+ "insideLead": "Fifteen minutes every Sunday.",
+ "inside": [
+  "<b>52 weekly review blocks.</b> Three per page.",
+  "<b>Four quarter summaries.</b>",
+  "<b>Four quick numbers each week.</b> People, money, energy, your three.",
+  "<b>Undated.</b> Start any week."
+ ],
+ "steps": {
+  "title": "Fifteen minutes, then close it",
+  "items": [
+   {
+    "h": "Pick your Sunday slot",
+    "p": "Same time each week."
+   },
+   {
+    "h": "Fill the block",
+    "p": "Record the week and the four numbers."
+   },
+   {
+    "h": "Summarise each quarter",
+    "p": "Look across thirteen weeks at once."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "Is this the right size?",
+  "yes": [
+   "You want a weekly review that stays small.",
+   "You like writing on paper.",
+   "You want a year of records in one place."
+  ],
+  "no": [
+   "You want a planner with goals and cycles. See The Quiet Reset 2027.",
+   "You want daily pages. This is weekly."
+  ]
+ },
+ "proof": {
+  "title": "The numbers behind it",
+  "stats": [
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "20 min",
+    "t": "In-person time with friends fell from about 60 minutes a day in 2003 to about 20 in 2020.",
+    "src": "American Time Use Survey data"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get 52-Week Sunday Review Journal",
+  "p": "One small tool, one sitting.",
+  "items": [
+   "Printable PDF",
+   "52 weekly review blocks",
+   "Four quarter summaries"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF. Print it or use it on a tablet with any PDF app."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "Fifteen minutes each Sunday."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone who wants a short, steady weekly review across a whole year."
+  },
+  {
+   "q": "Will it print on A4?",
+   "a": "Yes. It is US Letter and prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Is it dated?",
+   "a": "No. It is undated, so you can start any week."
+  },
+  {
+   "q": "Is this advice?",
+   "a": "No. It is a planning worksheet and general education, not medical, psychological, legal, financial or employment advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "The full version: review 2026, score twelve dimensions, pick three, run four 90-day cycles, and keep it to 105 minutes a week."
+ },
+ "final": {
+  "h": "Fifteen minutes every Sunday, for a whole year.",
+  "p": "Fifty-two weekly review blocks, three to a page, with four quick numbers each week: people, money, energy and your three."
+ },
+ "disclaimer": "Personal use only. General education; not medical, psychological, legal, financial or employment advice. By Quiet Leverages."
+}

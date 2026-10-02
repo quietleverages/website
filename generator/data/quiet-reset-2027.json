@@ -1,0 +1,186 @@
+{
+ "slug": "quiet-reset-2027",
+ "title": "The Quiet Reset 2027",
+ "pillar": "reset",
+ "free": false,
+ "price": "$47",
+ "priceOld": "$67",
+ "cta": "Get The Quiet Reset 2027",
+ "priceNote": "Early-bird $47 until December 31 with code EARLYBIRD ($20 off), then $67. Opens Nov 24. Instant download on Gumroad.",
+ "eyebrow": "Year planner \u00b7 12 dimensions \u00b7 105 minutes a week",
+ "h1": "Most planners fail by February. This one asks you to pick three goals and keep the other nine alive.",
+ "sub": "Review 2026, score twelve areas of your life, pick three to work on and put the rest on a maintenance minimum. Four ninety-day cycles, 105 minutes a week.",
+ "heroMicro": "<b>PDF for print or tablet, Google Sheet and Notion.</b> Start with the six short sessions in 00 Start here.",
+ "covertag": "Real page: the twelve-dimension audit",
+ "previews": [
+  "img/qr-1.jpg",
+  "img/qr-4.jpg",
+  "img/qr-5.jpg",
+  "img/qr-7.jpg",
+  "img/qr-9.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Score twelve dimensions",
+  "Pick three, keep nine on maintenance",
+  "Ninety days, three dimensions",
+  "Fifteen minutes, every Sunday"
+ ],
+ "preview_alts": [
+  "Cover of The Quiet Reset 2027 planner: Pick three. Keep the other nine on maintenance.",
+  "Planner page titled The twelve-dimension audit, with twelve boxes scored 1 to 5",
+  "Planner page titled Pick three of twelve, with why-this-one prompts",
+  "Planner page titled Ninety days, three dimensions, with a question, smallest test and measures per dimension",
+  "Planner page titled Fifteen minutes, every Sunday, with weekly review blocks"
+ ],
+ "uvp": [
+  {
+   "h": "Pick three, not twelve",
+   "p": "Score all twelve dimensions, work on the three that matter most, and keep the other nine on a simple minimum."
+  },
+  {
+   "h": "105 minutes a week",
+   "p": "Two 45-minute blocks for your three and a fifteen-minute Sunday review. That is the whole commitment."
+  },
+  {
+   "h": "Everything in one download",
+   "p": "The planner, a Google Sheet dashboard, a Notion template, three playbooks, three kits and three quick tools."
+  }
+ ],
+ "stat": {
+  "n": "22%",
+  "t": "of managers were engaged at work in 2025, down from 31% in 2022. Doing everything right and still feeling behind is common, and a longer to-do list does not fix it.",
+  "src": "Gallup, 2026"
+ },
+ "benefits": [
+  {
+   "h": "A year that starts with a review",
+   "p": "Write what happened, what it cost, and what to keep, alter or stop before you decide what 2027 means."
+  },
+  {
+   "h": "Focus without neglect",
+   "p": "Three active dimensions get your effort. The other nine get a small standing minimum, so nothing quietly falls apart."
+  },
+  {
+   "h": "Four fresh starts",
+   "p": "Ninety-day cycles, each with a question, a smallest test and a Day-90 decision. A missed week does not sink the year."
+  },
+  {
+   "h": "A weekly rhythm you can keep",
+   "p": "Fifteen minutes every Sunday to record what finished, what you agreed to, what it cost and what you decide."
+  }
+ ],
+ "benefitsTitle": "What changes after the first Sunday",
+ "insideTitle": "The planner, the playbooks and the tools behind it",
+ "insideLead": "One download. Start with the planner and the 90-day reset, and open the rest when you need it.",
+ "inside": [
+  "<b>The Quiet Reset 2027 planner.</b> PDF for print or tablet, 48 pages, fully linked on a tablet.",
+  "<b>Google Sheet and Notion.</b> The planner as a Google Sheet with a dashboard, and as a Notion template.",
+  "<b>The 90-day work, money and people reset.</b> One move a week for your first quarter.",
+  "<b>The AI Coach Pack.</b> A five-minute setup and 30 prompts.",
+  "<b>Guided Sunday Reviews.</b> 13 short guided reviews, written as scripts.",
+  "<b>Three playbooks.</b> The Social Architecture Playbook, The Finance Architect, The Career Playbook.",
+  "<b>Three kits.</b> The 30-Day Friendship Practice, The Raise Kit, The Couples Money Reset ($57 on their own).",
+  "<b>Three quick tools.</b> The Friendship Audit, What to Fund First, The Stay-or-Go Worksheet."
+ ],
+ "steps": {
+  "title": "Five moves, in this order",
+  "items": [
+   {
+    "h": "Review 2026",
+    "p": "Write what happened, what it cost, and what to keep, alter or stop."
+   },
+   {
+    "h": "Score twelve dimensions",
+    "p": "Rate each area 1 to 5 with one fact and one concern."
+   },
+   {
+    "h": "Pick three",
+    "p": "Choose the three whose improvement would help the rest. Nine go on maintenance."
+   },
+   {
+    "h": "Run four 90-day cycles",
+    "p": "Each quarter: a question, a smallest test, three measures, a Day-90 decision."
+   },
+   {
+    "h": "Review every Sunday",
+    "p": "Two 45-minute blocks for your three, plus fifteen minutes. 105 minutes in all."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if the plan keeps outgrowing the week",
+  "yes": [
+   "You set goals every January and lose the thread by February.",
+   "You want one system for work, money and people, not three apps.",
+   "You can spare about 105 minutes a week and want that time to count."
+  ],
+  "no": [
+   "You want daily motivation or a pep talk. This is a planner you fill in.",
+   "You want a single-topic tool. The small tools cover one area each.",
+   "You are looking for financial, employment or mental-health advice. This is general education."
+  ]
+ },
+ "proof": {
+  "title": "Why a planner that protects the rest matters",
+  "stats": [
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   },
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "29%",
+    "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group.",
+    "src": "Harvard Making Caring Common, 2024"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Plan 2027 on paper before it starts",
+  "p": "One price for the whole system. Early-bird pricing runs until December 31.",
+  "items": [
+   "The Quiet Reset 2027 planner (PDF, 48 pages)",
+   "Google Sheet dashboard and Notion template",
+   "90-day reset, AI Coach Pack, 13 Guided Sunday Reviews",
+   "Three playbooks, three kits ($57 on their own) and three quick tools"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A PDF planner for print or tablet (48 pages, fully linked on a tablet), plus a Google Sheet with a dashboard and a Notion template. Everything arrives as one instant download on Gumroad."
+  },
+  {
+   "q": "How much time does it take each week?",
+   "a": "105 minutes: two 45-minute blocks for your three dimensions and a fifteen-minute Sunday review. The first week has six short sessions in 00 Start here."
+  },
+  {
+   "q": "Do I have to fill in all twelve dimensions?",
+   "a": "You score all twelve once, then pick three to work on. The other nine stay on a short maintenance minimum, so you are not asked to improve everything at once."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone who wants one plan for work, money and people and keeps losing it by February. It suits a tablet or a printer."
+  },
+  {
+   "q": "What are the Guided Sunday Reviews?",
+   "a": "Thirteen short guided reviews, written as scripts you read through each Sunday."
+  },
+  {
+   "q": "Is this financial or career advice?",
+   "a": "No. It is a planning tool and general education, not financial, legal, employment or mental-health advice."
+  }
+ ],
+ "final": {
+  "h": "Pick three. Keep the other nine on maintenance.",
+  "p": "Review 2026, score twelve dimensions, and start your first ninety days."
+ },
+ "disclaimer": "General education, not financial or employment advice. Early-bird $47 until December 31 with code EARLYBIRD, then $67. By Quiet Leverages."
+}

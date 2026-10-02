@@ -1,0 +1,164 @@
+{
+ "slug": "monthly-money-date",
+ "title": "Monthly Money Date",
+ "pillar": "money",
+ "price": "$9",
+ "eyebrow": "Couples money · 20 minutes a month",
+ "h1": "Twenty minutes, once a month, so money stops turning into the fight.",
+ "sub": "A timed six-part agenda for two people, with twelve monthly record boxes. Start with a win, end by booking the next one.",
+ "cta": "Get it for $9",
+ "heroMicro": "<b>Printable PDF.</b> Print it or fill it in on a tablet. Instant download.",
+ "previews": [
+  "img/monthly-money-date-1.jpg",
+  "img/monthly-money-date-2.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Monthly record page: wins, transfers, bills, next step"
+ ],
+ "preview_alts": [
+  "First page of the Monthly Money Date: a timed agenda from one win each to booking the next date",
+  "Monthly record page with space for wins, transfers and bills, the step you are on, and the next money date"
+ ],
+ "uvp": [
+  {
+   "h": "A fixed agenda",
+   "p": "Six parts with minutes beside each. Nobody has to decide what to talk about."
+  },
+  {
+   "h": "Twelve months of records",
+   "p": "A box per month for wins, numbers and what each person wants next."
+  },
+  {
+   "h": "A line for when it gets tense",
+   "p": "One sentence on the page to pause the talk and come back to it."
+  }
+ ],
+ "stat": {
+  "n": "88%",
+  "t": "of US adults began 2026 feeling financial stress. A short, regular conversation is easier to keep up than a long, rare one.",
+  "src": "NEFE, Jan 2026"
+ },
+ "benefits": [
+  {
+   "h": "The same day every month",
+   "p": "You pick one day, put it in both calendars, and the habit does the remembering."
+  },
+  {
+   "h": "Fewer surprises",
+   "p": "Upcoming costs for the next 90 days get said out loud before they land."
+  },
+  {
+   "h": "A talk that starts well",
+   "p": "Each date opens with one win each and closes by booking the next one."
+  },
+  {
+   "h": "A record you can look back on",
+   "p": "Twelve boxes show what you decided and which step you are on."
+  }
+ ],
+ "inside": [
+  "<b>Timed agenda.</b> One win each, the numbers, the step you are on, what is coming, one thing each, book the next.",
+  "<b>12 monthly record boxes.</b> Wins, transfers and bills, the step you are on, the next 90 days.",
+  "<b>A line for when it gets tense.</b> Words to pause and return to it.",
+  "<b>Printable PDF.</b> 7 pages, US Letter, prints on A4 at fit to page."
+ ],
+ "steps": {
+  "title": "Pick a day, follow the clock, book the next",
+  "items": [
+   {
+    "h": "Pick the day",
+    "p": "Choose the same day each month and put it in both calendars."
+   },
+   {
+    "h": "Follow the agenda",
+    "p": "Six parts, twenty minutes. Start with a win each."
+   },
+   {
+    "h": "Record and book",
+    "p": "Write the numbers and one thing each person wants next. Book the next date before you stop."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if money talks keep getting postponed",
+  "yes": [
+   "You share money with a partner and talk about it only when something goes wrong.",
+   "You want a short, repeatable format rather than one big conversation.",
+   "You prefer paper or a tablet over another app."
+  ],
+  "no": [
+   "You want the full set of five conversations and three account models. See The Couples Money Reset.",
+   "You are after personalised financial advice. This is a meeting format.",
+   "You are managing money alone. Debt Payoff Planner may suit better."
+  ]
+ },
+ "proof": {
+  "title": "Why a regular money talk helps",
+  "stats": [
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "29%",
+    "t": "report money dysmorphia: feeling broke despite a healthy position.",
+    "src": "Intuit Credit Karma, via Finder"
+   },
+   {
+    "n": "26%",
+    "t": "are very confident they split spare money well across debt, savings and retirement. Among people earning $200K+, 64% are only somewhat confident.",
+    "src": "Vestwell, June 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Book the first date this week",
+  "p": "One printable, twenty minutes a month, twelve months of record pages.",
+  "items": [
+   "Six-part timed agenda",
+   "12 monthly record boxes",
+   "A line for when it gets tense"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How long does a money date take?",
+   "a": "Twenty minutes. The agenda gives each part a time: two, five, two, five, three and two minutes."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Couples who share some or all of their money and want a regular, calm way to talk about it."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. It is a PDF, so any PDF app works. You can also print it on US Letter or on A4 at fit to page."
+  },
+  {
+   "q": "Do we need a spreadsheet?",
+   "a": "No. The record boxes are on paper. The Couples Money Reset adds a Google Sheet and more if you want it."
+  },
+  {
+   "q": "What if the conversation gets tense?",
+   "a": "The page has a line for exactly that: a way to pause and return when you are both calmer."
+  },
+  {
+   "q": "Is this financial advice?",
+   "a": "No. It is a meeting format. General education, not financial advice."
+  }
+ ],
+ "related": {
+  "name": "The Couples Money Reset",
+  "price": "$19",
+  "slug": "couples-money-reset",
+  "blurb": "Five conversations with opening lines, three account models, a fair-split rule and a twenty-minute monthly money date."
+ },
+ "final": {
+  "h": "Twenty minutes, same day each month.",
+  "p": "Pick the day and book the first one."
+ },
+ "disclaimer": "General education, not financial advice. Personal use only.",
+ "free": false
+}

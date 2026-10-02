@@ -1,0 +1,167 @@
+{
+  "slug": "friendship-audit",
+  "title": "The Friendship Audit",
+  "pillar": "people",
+  "free": true,
+  "price": "Free",
+  "priceNote": "Free on Gumroad. Pay what you want from $0. Instant download.",
+  "eyebrow": "Free tool · 10 minutes · People",
+  "h1": "Most friendships don't end. They fade, because both people are waiting for the other to reach out.",
+  "sub": "Map your inner, middle and outer circles in ten minutes, see exactly who is fading, and leave with three texts to send this week.",
+  "cta": "Get the free audit",
+  "heroMicro": "<b>PDF + Google Sheet.</b> No email wall, no course. Fill it in tonight.",
+  "previews": [
+    "img/friendship-audit-1.jpg",
+    "img/friendship-audit-3.jpg",
+    "img/friendship-audit-5.jpg"
+  ],
+  "uvp": [
+    {
+      "h": "See who is fading",
+      "p": "Rank up to 25 people by closeness. The sheet flags the ones you have drifted from."
+    },
+    {
+      "h": "Ten minutes, on paper",
+      "p": "A printable audit you can finish before dinner. No app, no login."
+    },
+    {
+      "h": "Three texts to send",
+      "p": "You finish with named people and a message for each, not a vague plan to 'reach out more'."
+    }
+  ],
+  "stat": {
+    "n": "20 min",
+    "t": "In-person time with friends fell from about 60 minutes a day in 2003 to about 20 in 2020. Friendships rarely end; the time just stops being scheduled.",
+    "src": "American Time Use Survey data"
+  },
+  "benefits": [
+    {
+      "h": "A clear picture of your circles",
+      "p": "Inner, middle and outer circles on one page, so you know who actually holds your week together."
+    },
+    {
+      "h": "Fading, flagged for you",
+      "p": "The Google Sheet finds who is slipping, so you do not have to remember to notice."
+    },
+    {
+      "h": "A first move that is small",
+      "p": "Three short texts, written this week, to people who would likely be glad to hear from you."
+    },
+    {
+      "h": "A way into the full practice",
+      "p": "If the audit shows a gap, The 30-Day Friendship Practice picks up exactly where it ends."
+    }
+  ],
+  "benefitsTitle": "What you leave with",
+  "insideTitle": "A printable and a sheet that does the sorting",
+  "insideLead": "Both versions cover the same audit. Use paper if you think better with a pen, the sheet if you want the fading list built for you.",
+  "inside": [
+    "<b>Printable audit (PDF).</b> Map your circles and mark who is fading.",
+    "<b>Google Sheet.</b> Enter up to 25 people and it finds who is fading.",
+    "<b>Three-texts page.</b> Who to message this week, and what to say.",
+    "<b>Built from The Social Architecture Playbook</b> by Quiet Leverages."
+  ],
+  "steps": {
+    "title": "Ten minutes, three moves",
+    "items": [
+      {
+        "h": "Map your circles",
+        "p": "List the people in your inner, middle and outer circles."
+      },
+      {
+        "h": "Mark who is fading",
+        "p": "Note the last time you spoke. The sheet flags the drift."
+      },
+      {
+        "h": "Pick three texts",
+        "p": "Choose three people and write one line to each."
+      }
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if your calendar went quiet",
+    "yes": [
+      "You moved cities, changed jobs or had a baby and your circle thinned out.",
+      "You think 'we should get together sometime' and then it does not happen.",
+      "You want a small first step, not a social overhaul."
+    ],
+    "no": [
+      "You want a full programme of daily drills. See The 30-Day Friendship Practice.",
+      "You are looking for therapy or clinical support. This is a planning tool.",
+      "You want a motivational read. This is a worksheet you fill in."
+    ]
+  },
+  "proof": {
+    "title": "Why friendships drift, in numbers",
+    "stats": [
+      {
+        "n": "29%",
+        "t": "of adults aged 30-44 are frequently or always lonely, the highest of any age group.",
+        "src": "Harvard Making Caring Common, 2024"
+      },
+      {
+        "n": "12%",
+        "t": "of Americans have no close friends, up from 3% in 1990.",
+        "src": "Survey Center on American Life, 2021"
+      },
+      {
+        "n": "~50 hrs",
+        "t": "of time together to move from acquaintance to casual friend; about 200+ to a close friend.",
+        "src": "Jeffrey Hall, University of Kansas, 2018"
+      }
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Take the audit tonight",
+    "p": "It is free, and it takes ten minutes. If you want to keep going after, the next step is ready.",
+    "items": [
+      "Printable audit (PDF)",
+      "Google Sheet that finds who is fading",
+      "Three texts to send this week"
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is it really free?",
+      "a": "Yes. Gumroad lets you pay what you want, starting at $0. If it helps and you want to leave something, you can. You do not have to."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "About ten minutes. Start on page 2. You do not need to think about every person you have ever met, only up to 25."
+    },
+    {
+      "q": "Do I need Google Sheets?",
+      "a": "No. The printable PDF does the whole job. The sheet only adds the automatic 'who is fading' list."
+    },
+    {
+      "q": "What if the audit shows I have very few people?",
+      "a": "That is useful to know, and it is common. The audit shows where to start. The 30-Day Friendship Practice is built for exactly that, with one small drill a day."
+    },
+    {
+      "q": "Is this therapy or advice about loneliness?",
+      "a": "No. It is a planning worksheet. General education only."
+    }
+  ],
+  "related": {
+    "name": "The 30-Day Friendship Practice",
+    "price": "$19",
+    "slug": "friendship-practice",
+    "blurb": "One small social drill a day for thirty days, with sixty scripts for the moments that matter."
+  },
+  "final": {
+    "h": "Three texts this week, to people you already know.",
+    "p": "The audit tells you who. The texts are up to you."
+  },
+  "disclaimer": "General education only. Not medical or mental-health advice. Built from The Social Architecture Playbook by Quiet Leverages.",
+  "preview_labels": [
+    "",
+    "Page 3: map your three circles",
+    "Page 5: pick three texts"
+  ],
+  "preview_alts": [
+    "Cover of The Friendship Audit, a free tool",
+    "Audit page with inner, middle and outer circle tables to fill in, with a last real contact and fading column",
+    "Audit page for choosing three texts to send, with sample scripts and a note on what to do if they do not answer"
+  ]
+}

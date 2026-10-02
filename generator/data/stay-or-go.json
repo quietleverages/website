@@ -1,0 +1,85 @@
+{
+  "slug": "stay-or-go",
+  "title": "The Stay-or-Go Worksheet",
+  "pillar": "work",
+  "free": true,
+  "price": "Free",
+  "priceNote": "Free on Gumroad. Pay what you want from $0. Instant download.",
+  "eyebrow": "Free tool · 20 minutes · Work",
+  "h1": "Should you quit your job? Decide on paper, not at 2 a.m.",
+  "sub": "Compare staying with going, separate what you have checked from what you hope, and set a date to decide.",
+  "cta": "Get the free worksheet",
+  "heroMicro": "<b>PDF + Google Sheet.</b> No course, no email wall. Fill it in when things are calm.",
+  "previews": [
+    "img/stay-or-go-1.jpg",
+    "img/stay-or-go-3.jpg",
+    "img/stay-or-go-4.jpg",
+    "img/stay-or-go-5.jpg"
+  ],
+  "preview_labels": ["", "Page 3: foundations, then six criteria scored", "Page 4: evidence next to hope", "Page 5: a date, a test and a stop rule"],
+  "preview_alts": [
+    "Cover of The Stay-or-Go Worksheet, a free tool",
+    "Worksheet page listing the foundations that must stay workable, with a table scoring six criteria for staying and for going",
+    "Worksheet page with two columns, evidence you checked and hope or fear, plus a box for your realistic next move",
+    "Worksheet page with a decision date, a test and a stop rule, and three conversations to have first"
+  ],
+  "uvp": [
+    {"h": "Evidence on one side, hope on the other", "p": "Write what you actually know in one column and your interpretation in the other. The page shows which one is doing the arguing."},
+    {"h": "Six criteria, scored both ways", "p": "Score staying and going on the same six criteria, so the total informs the decision instead of the mood."},
+    {"h": "A date to decide", "p": "You finish with a decision date, a small test and a stop rule, not an open-ended debate."}
+  ],
+  "stat": {"n": "48%", "t": "of workers say they stay in their job out of fear and economic uncertainty. Staying is a fine choice when you have checked what must hold and set a date to look again.", "src": "Monster, Oct 2025"},
+  "benefits": [
+    {"h": "Foundations checked first", "p": "Income that covers essentials, recovery time, caring commitments, fair treatment, location. Mark each one for staying and for going."},
+    {"h": "A fair comparison", "p": "Six criteria, each weighted and scored for stay and for go. The total informs the decision. It does not make it."},
+    {"h": "Your real alternative, named", "p": "An alternative is something you could do tomorrow, not an interview you hope to get. The page asks for the first kind."},
+    {"h": "Ninety days, not twenty years", "p": "You decide the next ninety days and what would change your mind, which is a decision you can revise."}
+  ],
+  "benefitsTitle": "What you leave with",
+  "insideTitle": "A worksheet and a sheet that does the scoring",
+  "insideLead": "Use paper if you think better with a pen. Use the Google Sheet if you want the scoring done for you.",
+  "inside": [
+    "<b>Printable worksheet (PDF).</b> The foundations that must hold, six criteria scored for stay and go, and a decision date.",
+    "<b>Google Sheet version.</b> Does the scoring.",
+    "<b>Three conversations to have first.</b> Opening lines to try before you decide.",
+    "<b>Built from The Career Playbook</b> by Quiet Leverages."
+  ],
+  "steps": {
+    "title": "Five questions, one afternoon",
+    "items": [
+      {"h": "Check and score", "p": "Mark the foundations for staying and going, then score six criteria for each."},
+      {"h": "Separate evidence from hope", "p": "Write what you have checked on the left and your story about it on the right."},
+      {"h": "Set a date, a test and a stop rule", "p": "Pick the smallest test that would give you new evidence, and the day you will decide."}
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if the answer changes by the hour",
+    "yes": ["You ask yourself whether to quit most Sundays and never get to an answer.", "A bad week has you wondering whether it is the job or the week.", "You would rather decide from a page you filled in when calm."],
+    "no": ["You want someone to tell you what to do. The call is yours; this only organises it.", "You need legal advice about a contract or an exit. This is general education.", "You have decided to stay and want more pay. See The Raise Kit."]
+  },
+  "proof": {
+    "title": "Why this decision stalls, in numbers",
+    "stats": [
+      {"n": "57%", "t": "call themselves job huggers.", "src": "ResumeBuilder, Feb 2026"},
+      {"n": "~1,050", "t": "comments on the median stay-or-leave career post, against about 415 for career posts overall.", "src": "Quiet Leverages analysis of Reddit top posts, Oct 2025-Sep 2026"},
+      {"n": "108 days", "t": "median from starting a job search to a first offer.", "src": "Huntr, Q1 2026"}
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Decide on paper this week",
+    "p": "It is free. Fill it in when you are calm, not after a bad meeting.",
+    "items": ["Printable worksheet (PDF)", "Google Sheet that does the scoring", "Three conversations to have first"]
+  },
+  "faq": [
+    {"q": "Is it really free?", "a": "Yes. Gumroad lets you pay what you want, starting at $0. If it helps and you want to leave something, you can. You do not have to."},
+    {"q": "How long does it take?", "a": "About twenty minutes for a first pass. Do it when you are calm, not after a bad meeting, and come back to it before your decision date."},
+    {"q": "Will it tell me whether to quit?", "a": "No. It organises what you know so you can see it. The total informs the decision; you make it."},
+    {"q": "Do I need Google Sheets?", "a": "No. The printable PDF covers all five questions. The sheet only does the scoring arithmetic for you."},
+    {"q": "Can I print it or use it on a tablet?", "a": "Both. Print the PDF and use a pen, or fill it in on a tablet with any PDF app."},
+    {"q": "Is this employment or legal advice?", "a": "No. It is a planning worksheet. General education only."}
+  ],
+  "related": {"name": "The Raise Kit", "price": "$19", "slug": "raise-kit", "blurb": "If you decide to stay, ask for what you need: an evidence log, a four-line ask, and replies for the pushbacks."},
+  "final": {"h": "Twenty minutes, one page, one date.", "p": "Settle the question on paper, then give it ninety days."},
+  "disclaimer": "General education only. Not employment or legal advice. Built from The Career Playbook by Quiet Leverages."
+}

@@ -1,0 +1,169 @@
+{
+ "slug": "debt-payoff-planner",
+ "title": "Debt Payoff Planner",
+ "pillar": "money",
+ "price": "$9",
+ "eyebrow": "Money tool · Google Sheet + printable",
+ "h1": "Four debts, one extra $200 a month. Which one gets it?",
+ "sub": "Rank your debts by avalanche or snowball, flag anything above about 7% APR, and see exactly where the extra money goes.",
+ "cta": "Get it for $9",
+ "heroMicro": "<b>Google Sheet (.xlsx) + printable PDF.</b> Opens in Google Sheets or Excel. Instant download.",
+ "previews": [
+  "img/debt-payoff-planner-1.jpg",
+  "img/debt-payoff-planner-2.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Progress page: color in as the total falls"
+ ],
+ "preview_alts": [
+  "First page of the printable Debt Payoff Planner: a table for debt, balance, APR, minimum and order",
+  "Progress page with columns for each debt and a total, to fill in month by month"
+ ],
+ "uvp": [
+  {
+   "h": "Ranks both ways",
+   "p": "Avalanche (highest rate first) and snowball (smallest balance first) side by side."
+  },
+  {
+   "h": "Flags the expensive ones",
+   "p": "Anything above about 7% APR is marked as a priority."
+  },
+  {
+   "h": "Shows where the extra goes",
+   "p": "One debt gets the extra payment each month, and the sheet tells you which."
+  }
+ ],
+ "stat": {
+  "n": "+1,050%",
+  "t": "Searches for a Google Sheets debt payoff template rose 1,050% in the US, Jan-Sep 2026 against 2025. This one is built to do the ranking for you.",
+  "src": "Google Trends, US, Jan-Sep 2026 vs 2025"
+ },
+ "benefits": [
+  {
+   "h": "One page for every debt",
+   "p": "Balance, APR and minimum payment for each debt, in one place."
+  },
+  {
+   "h": "A clear order",
+   "p": "Avalanche or snowball. Pick the one you will actually stick with."
+  },
+  {
+   "h": "A falling total",
+   "p": "A monthly progress tab shows the total going down."
+  },
+  {
+   "h": "Paper if you want it",
+   "p": "A printable version is included for the fridge or the desk."
+  }
+ ],
+ "inside": [
+  "<b>Google Sheet (.xlsx).</b> Ranks debts both ways, flags anything above about 7% APR, tells you which debt gets the extra.",
+  "<b>Monthly progress tab.</b> A total that falls as you pay.",
+  "<b>Printable PDF.</b> A debt table and a progress page.",
+  "<b>Opens in Google Sheets or Excel.</b> In Google Sheets, use File > Import."
+ ],
+ "steps": {
+  "title": "List, rank, pay, track",
+  "items": [
+   {
+    "h": "List every debt",
+    "p": "Balance, APR and minimum payment for each."
+   },
+   {
+    "h": "Choose your order",
+    "p": "Avalanche costs less. Snowball gives quicker wins. Pick the one you will keep."
+   },
+   {
+    "h": "Put the extra on one",
+    "p": "The sheet names the debt that gets the extra each month."
+   },
+   {
+    "h": "Track the total",
+    "p": "Update the progress tab monthly and watch it fall."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you have more than one balance",
+  "yes": [
+   "You carry two or more debts and are not sure which to pay down first.",
+   "You want to see the order on a sheet rather than work it out in your head.",
+   "You like having a printable copy too."
+  ],
+  "no": [
+   "You want the full seven-step order of money priorities. See What to Fund First, which is free.",
+   "You want a debt consolidation or credit recommendation. This is a tracker.",
+   "You want an app that connects to your accounts. This is a sheet you fill in."
+  ]
+ },
+ "proof": {
+  "title": "Why a plan beats a guess",
+  "stats": [
+   {
+    "n": "88%",
+    "t": "of US adults began 2026 feeling financial stress.",
+    "src": "NEFE, Jan 2026"
+   },
+   {
+    "n": "26%",
+    "t": "are very confident they split spare money well across debt, savings and retirement. Among people earning $200K+, 64% are only somewhat confident.",
+    "src": "Vestwell, June 2026"
+   },
+   {
+    "n": "29%",
+    "t": "report money dysmorphia: feeling broke despite a healthy position.",
+    "src": "Intuit Credit Karma, via Finder"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Put every balance on one page",
+  "p": "A Google Sheet that ranks your debts, plus a printable copy.",
+  "items": [
+   "Google Sheet (.xlsx) with avalanche and snowball ranking",
+   "APR flag above about 7%",
+   "Monthly progress tab",
+   "Printable PDF"
+  ]
+ },
+ "faq": [
+  {
+   "q": "Do I need Google Sheets?",
+   "a": "No. The file is an .xlsx, so it opens in Google Sheets (File > Import) or in Excel. The printable PDF also works on its own."
+  },
+  {
+   "q": "Avalanche or snowball?",
+   "a": "The sheet ranks both. Avalanche pays the highest rate first and costs less. Snowball pays the smallest balance first and gives quicker wins. Pick the one you will stick with."
+  },
+  {
+   "q": "How long does setup take?",
+   "a": "List each debt with its balance, APR and minimum. For a handful of debts that is a short sitting."
+  },
+  {
+   "q": "Does it connect to my bank?",
+   "a": "No. You type the numbers in. Nothing is linked to your accounts."
+  },
+  {
+   "q": "Can I print it or use it on a tablet?",
+   "a": "Yes. The printable PDF works on paper or in any PDF app. It is US Letter and prints on A4 at fit to page."
+  },
+  {
+   "q": "Is this financial advice?",
+   "a": "No. General education, not financial advice."
+  }
+ ],
+ "related": {
+  "name": "The Couples Money Reset",
+  "price": "$19",
+  "slug": "couples-money-reset",
+  "blurb": "If debt is shared, five conversations with opening lines and a fair-split rule to run it together."
+ },
+ "final": {
+  "h": "Know which debt gets the next dollar.",
+  "p": "List them, rank them, pay one down first."
+ },
+ "disclaimer": "General education, not financial advice. Personal use only.",
+ "free": false
+}

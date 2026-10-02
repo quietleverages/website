@@ -1,0 +1,149 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/hard-conversation-worksheet-2.jpg",
+  "img/hard-conversation-worksheet-4.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "hard-conversation-worksheet",
+ "title": "Hard Conversation Worksheet",
+ "pillar": "people",
+ "price": "$7",
+ "cta": "Get the worksheet for $7",
+ "priceNote": "One-time $7 on Gumroad. Instant download.",
+ "eyebrow": "Worksheet \u00b7 4 pages \u00b7 People",
+ "h1": "The conversation you keep putting off still needs a first sentence.",
+ "sub": "Prepare it on paper: the facts, both stories, what you want afterwards, and how you will close it.",
+ "preview_labels": [
+  "",
+  "The recap page, for afterwards"
+ ],
+ "preview_alts": [
+  "Hard Conversation Worksheet page 2: Before you have it, with fields for the facts, the story I'm telling myself, the story they might be telling, and my opening sentence",
+  "Hard Conversation Worksheet page 4: The recap, with fields for what was agreed, what wasn't, and what I'll do next and when"
+ ],
+ "uvp": [
+  {
+   "h": "Facts first",
+   "p": "Write only what a camera would have recorded: dates, words, actions."
+  },
+  {
+   "h": "Both stories",
+   "p": "The story you are telling yourself, and a reasonable version of the one they might be telling."
+  },
+  {
+   "h": "A recap for afterwards",
+   "p": "A last page to record what was agreed, what was not, and what happens next."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "An opening sentence ready",
+   "p": "Lead with facts, then label your own story as a story."
+  },
+  {
+   "h": "Clarity on the outcome",
+   "p": "Write what you want for the relationship in six months, not what you want to win."
+  },
+  {
+   "h": "A close that is a decision",
+   "p": "Plan who does what, by when, so the talk ends with something."
+  },
+  {
+   "h": "Works for friends, family, partners and colleagues",
+   "p": "One layout for the conversations you have been avoiding."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "Two preparation pages and a recap",
+ "insideLead": "Fill in one page per conversation. Write the facts before the feelings.",
+ "inside": [
+  "<b>Two full preparation pages.</b> Facts, both stories, opening, close.",
+  "<b>A recap page</b> for afterwards.",
+  "<b>Works for</b> friends, family, partners and colleagues.",
+  "<b>Printable PDF.</b> US Letter, prints on A4 at 'fit to page'."
+ ],
+ "steps": {
+  "title": "Prepare, have it, record it",
+  "items": [
+   {
+    "h": "Fill in the preparation page",
+    "p": "Facts first, then both stories, then what you want afterwards."
+   },
+   {
+    "h": "Write your opening and close",
+    "p": "One opening sentence, and how you will close with a decision."
+   },
+   {
+    "h": "Fill in the recap",
+    "p": "After the talk, write what was agreed and what you will do next."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if the talk is overdue",
+  "yes": [
+   "You have a conversation you keep rehearsing and not having.",
+   "You want to separate what happened from the story about it.",
+   "You want the talk to end with a decision, not just relief."
+  ],
+  "no": [
+   "You want a daily practice. See The 30-Day Friendship Practice.",
+   "You are looking for therapy, mediation or legal advice. This is a preparation page.",
+   "You are in an unsafe situation. This worksheet is not the right tool."
+  ]
+ },
+ "proof": {
+  "title": "Why we built it",
+  "stats": [
+   {
+    "n": "~50 hrs",
+    "t": "of time together to move from acquaintance to casual friend; about 90 to friend, 200+ to close friend.",
+    "src": "Jeffrey Hall, University of Kansas, 2018"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Prepare it tonight, have it this week",
+  "p": "Four pages: two to prepare with, one for the recap, and a cover page with instructions.",
+  "items": [
+   "Two full preparation pages",
+   "A recap page for afterwards",
+   "Works for friends, family, partners and colleagues"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How long does it take?",
+   "a": "Fill in one page per conversation. Take as long as the facts and the opening sentence need."
+  },
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter, 4 pages. It prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. Any PDF app that lets you write on a page will do, or print it and use a pen."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone preparing a talk with a friend, family member, partner or colleague."
+  },
+  {
+   "q": "Is it advice?",
+   "a": "No. It is a preparation worksheet. General education only; not legal, medical or mental-health advice."
+  }
+ ],
+ "related": {
+  "name": "The 30-Day Friendship Practice",
+  "price": "$19",
+  "slug": "friendship-practice",
+  "blurb": "One small social drill a day for thirty days, with sixty scripts and a tracker."
+ },
+ "final": {
+  "h": "Write the first sentence tonight.",
+  "p": "Facts, both stories, what you want after, and a close."
+ }
+}

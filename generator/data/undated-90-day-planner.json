@@ -1,0 +1,161 @@
+{
+ "slug": "undated-90-day-planner",
+ "title": "Undated 90-Day Planner",
+ "pillar": "reset",
+ "free": false,
+ "price": "$12",
+ "cta": "Get it for $12",
+ "priceNote": "Instant download on Gumroad. Print it or use it on a tablet.",
+ "eyebrow": "Planner \u00b7 Undated \u00b7 Reset",
+ "h1": "One quarter, three priorities, thirteen fifteen-minute Sunday reviews.",
+ "sub": "Set a question, a smallest test and three measures for each priority. Review every Sunday for thirteen weeks, then record a Day-90 decision.",
+ "heroMicro": "<b>Printable PDF.</b> US Letter, prints fine on A4 at 'fit to page'.",
+ "covertag": "Real page from the product",
+ "previews": [
+  "img/pl-2.jpg",
+  "img/pl-3.jpg",
+  "img/pl-7.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Fifteen minutes, every Sunday",
+  "The decision record"
+ ],
+ "preview_alts": [
+  "Planner page titled Three priorities, with a question, smallest test and measures for each",
+  "Planner page titled Fifteen minutes, every Sunday, with weekly review blocks",
+  "Planner page titled The decision record, with prompts for Day 90"
+ ],
+ "uvp": [
+  {
+   "h": "Start any Monday",
+   "p": "Undated, so you begin when you are ready, not on the first of the month."
+  },
+  {
+   "h": "Three priorities",
+   "p": "A question, a smallest test and three measures for each."
+  },
+  {
+   "h": "Thirteen short reviews",
+   "p": "Evidence, agreements, cost and decision, in fifteen minutes."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "A quarter you can finish",
+   "p": "Three priorities is a number you can hold in a busy week."
+  },
+  {
+   "h": "Evidence each week",
+   "p": "Each review records what finished, what you agreed to, what it cost and what you decide."
+  },
+  {
+   "h": "A decision at Day 90",
+   "p": "A record that asks whether to continue, change or stop."
+  },
+  {
+   "h": "A bigger system when you want one",
+   "p": "The Quiet Reset 2027 runs four of these cycles in a year."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "What's in the download",
+ "insideLead": "Set three priorities, then review each Sunday.",
+ "inside": [
+  "<b>Quarter setup.</b> A question, a smallest test and three measures per priority.",
+  "<b>13 weekly review blocks.</b> Evidence, agreements, cost, decision.",
+  "<b>A Day-90 decision record.</b>",
+  "<b>Undated.</b> Start any Monday."
+ ],
+ "steps": {
+  "title": "Set it up once, review every Sunday",
+  "items": [
+   {
+    "h": "Set the quarter",
+    "p": "Write three priorities with a question, test and measures."
+   },
+   {
+    "h": "Review weekly",
+    "p": "Fifteen minutes each Sunday, thirteen times."
+   },
+   {
+    "h": "Decide at Day 90",
+    "p": "Record whether to continue, change or stop."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "Is this the right size?",
+  "yes": [
+   "You want to run one quarter with a clear finish.",
+   "You prefer a printed planner you can start any Monday.",
+   "You want a weekly review you can keep."
+  ],
+  "no": [
+   "You want a full-year plan across all twelve areas. See The Quiet Reset 2027.",
+   "You want a dated diary. This planner is undated."
+  ]
+ },
+ "proof": {
+  "title": "The numbers behind it",
+  "stats": [
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   },
+   {
+    "n": "29%",
+    "t": "report money dysmorphia, feeling broke despite a healthy position.",
+    "src": "Intuit Credit Karma, via Finder"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Get Undated 90-Day Planner",
+  "p": "One small tool, one sitting.",
+  "items": [
+   "Printable PDF",
+   "Quarter setup for three priorities",
+   "13 weekly reviews and a Day-90 record"
+  ]
+ },
+ "faq": [
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF. Print it or use it on a tablet with any PDF app."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "Set up the quarter once, then give each Sunday review fifteen minutes."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone who wants a short, structured quarter with weekly check-ins."
+  },
+  {
+   "q": "Will it print on A4?",
+   "a": "Yes. It is US Letter and prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Is it dated?",
+   "a": "Yes. It is undated, so you can start any Monday."
+  },
+  {
+   "q": "Is this advice?",
+   "a": "No. It is a planning worksheet and general education, not medical, psychological, legal, financial or employment advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "The full version: review 2026, score twelve dimensions, pick three, run four 90-day cycles, and keep it to 105 minutes a week."
+ },
+ "final": {
+  "h": "One quarter, three priorities, thirteen fifteen-minute Sunday reviews.",
+  "p": "Set a question, a smallest test and three measures for each priority. Review every Sunday for thirteen weeks, then record a Day-90 decision."
+ },
+ "disclaimer": "Personal use only. General education; not medical, psychological, legal, financial or employment advice. By Quiet Leverages."
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "couples-money-reset",
+  "title": "The Couples Money Reset",
+  "pillar": "money",
+  "free": false,
+  "price": "$19",
+  "priceNote": "One-time $19 on Gumroad. Instant download.",
+  "eyebrow": "$19 kit · 5 conversations · Money",
+  "h1": "Money fights are rarely about money. They are about surprises. Get everything on one page, calmly.",
+  "sub": "Choose a structure you will both keep running, have the five conversations, and replace money fights with a twenty-minute monthly date.",
+  "cta": "Get it for $19",
+  "heroMicro": "<b>PDF guide + Google Sheet + Notion.</b> Book your first money date the day you buy.",
+  "previews": [
+    "img/couples-money-reset-1.jpg",
+    "img/couples-money-reset-3.jpg",
+    "img/couples-money-reset-5.jpg",
+    "img/couples-money-reset-7.jpg"
+  ],
+  "preview_labels": [
+    "",
+    "Page 3: choose a structure you will both keep running",
+    "Page 5: the five conversations",
+    "Page 7: the twenty-minute money date"
+  ],
+  "preview_alts": [
+    "Cover of The Couples Money Reset guide",
+    "Guide page comparing account models for couples, with the yours, mine, ours flow explained",
+    "Guide page headed The five conversations, starting with debts and accounts, each with an opening line to use",
+    "Guide page with a timed agenda for a twenty-minute monthly money date and a note on what to do when you disagree"
+  ],
+  "uvp": [
+    {
+      "h": "Five conversations, with opening lines",
+      "p": "Each one has a line to start it, so the first sentence is not the hard part."
+    },
+    {
+      "h": "Three account models",
+      "p": "All in, yours-mine-ours, or separate plus shared bills. Pick the one you will both keep running."
+    },
+    {
+      "h": "A twenty-minute monthly money date",
+      "p": "A timed agenda, same day each month, so money is something you talk about instead of fight about."
+    }
+  ],
+  "stat": {
+    "n": "17%",
+    "t": "of upvotes in the top personal-finance posts go to family and relationship money, which is about 14% of the posts.",
+    "src": "Quiet Leverages analysis of Reddit top posts, Oct 2025-Sep 2026"
+  },
+  "benefits": [
+    {
+      "h": "Everything on one page",
+      "p": "Every debt each of you has, with balance, rate and monthly payment. A list, with no judgment."
+    },
+    {
+      "h": "A split you can both defend",
+      "p": "Equal, or proportional to income. A fair-split calculator in the Google Sheet does the arithmetic."
+    },
+    {
+      "h": "A structure that runs itself",
+      "p": "Paychecks land, automatic transfers move shared money, and each person keeps a personal account to spend freely."
+    },
+    {
+      "h": "Family money, covered",
+      "p": "Supporting a parent, marrying later, inheritance and wills each get their own section."
+    }
+  ],
+  "benefitsTitle": "What you leave with",
+  "insideTitle": "The guide, the sheet and the opening lines",
+  "insideLead": "Read the guide together, or one at a time. Then book the first money date.",
+  "inside": [
+    "<b>The guide (PDF).</b> Three account models, five conversations with opening lines, the split rule, the monthly money date, and family situations (supporting a parent, marrying later, inheritance, wills).",
+    "<b>Google Sheet.</b> Fair-split calculator, shared costs, a money-date log and a family-money planner.",
+    "<b>Notion import and AI prompts.</b> For the maths and for rehearsing a conversation."
+  ],
+  "steps": {
+    "title": "Structure, conversations, then a habit",
+    "items": [
+      {
+        "h": "Choose a structure",
+        "p": "Compare the account models and pick the one you will both maintain. Write down the model and the date you will review it."
+      },
+      {
+        "h": "Have the five conversations",
+        "p": "Have each one once, properly. Write the answer down, and revisit it when something big changes."
+      },
+      {
+        "h": "Book the money date",
+        "p": "Twenty minutes, same day each month, both calendars. Open with one win each."
+      }
+    ]
+  },
+  "forwho": {
+    "title": "A good fit if money is shared and rarely discussed",
+    "yes": [
+      "You and a partner share costs and have never put it all on one page.",
+      "You want money to be something you talk about, not something you fight about.",
+      "Money involves a parent, a later marriage, an inheritance or a will."
+    ],
+    "no": [
+      "You want tax, legal or investment advice. This is general education.",
+      "You are planning money on your own. Start with the free What to Fund First.",
+      "You want a one-time fix. The money date is a monthly habit."
+    ]
+  },
+  "proof": {
+    "title": "Why the conversation matters, in numbers",
+    "stats": [
+      {
+        "n": "88%",
+        "t": "of US adults began 2026 feeling financial stress.",
+        "src": "NEFE, Jan 2026"
+      },
+      {
+        "n": "26%",
+        "t": "are very confident they split spare money well across debt, savings and retirement.",
+        "src": "Vestwell, June 2026"
+      },
+      {
+        "n": "+1,050%",
+        "t": "growth in US searches for 'google sheets debt payoff template'.",
+        "src": "Google Trends, US, Jan-Sep 2026 vs 2025"
+      }
+    ],
+    "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+  },
+  "offer": {
+    "h": "Book the first money date today",
+    "p": "Five conversations, one account structure, and a monthly habit that takes twenty minutes.",
+    "items": [
+      "The guide (PDF) with five conversations and opening lines",
+      "Google Sheet: fair-split calculator, shared costs, money-date log",
+      "Notion import and AI prompts",
+      "Add a second kit for $12 at checkout"
+    ]
+  },
+  "faq": [
+    {
+      "q": "What format is it?",
+      "a": "A PDF guide, a Google Sheet with a fair-split calculator and money-date log, and a Notion import with AI prompts."
+    },
+    {
+      "q": "How long does it take?",
+      "a": "The monthly money date is twenty minutes. The five conversations are each held once, properly, and revisited when something big changes."
+    },
+    {
+      "q": "Who is it for?",
+      "a": "Couples who share some or all of their money, including those supporting a parent, marrying later or planning around an inheritance."
+    },
+    {
+      "q": "What if we already have separate accounts?",
+      "a": "That is one of the three models. The guide compares all three, including separate accounts plus shared bills, so you can choose the one you will both keep running."
+    },
+    {
+      "q": "Can I print it or use it on a tablet?",
+      "a": "Both. Print the guide, or work from it on a tablet with any PDF app. The Google Sheet works in your browser."
+    },
+    {
+      "q": "Is this financial, tax or legal advice?",
+      "a": "No. It is a conversation kit and general education only. Laws on inheritance and wills differ by state."
+    }
+  ],
+  "related": {
+    "name": "Debt Payoff Planner",
+    "price": "$9",
+    "slug": "debt-payoff-planner",
+    "blurb": "Rank your debts by avalanche or snowball and see exactly where the extra money goes.",
+    "eyebrow": "Add to it"
+  },
+  "final": {
+    "h": "Everything on one page, before it becomes a surprise.",
+    "p": "Start with Conversation 1 and book the money date."
+  },
+  "disclaimer": "General education only. Not financial, tax or legal advice."
+}

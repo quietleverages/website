@@ -1,0 +1,167 @@
+{
+ "slug": "90-day-career-reset",
+ "title": "90-Day Career Reset",
+ "pillar": "work",
+ "price": "$12",
+ "eyebrow": "Career tool · 13 weeks",
+ "h1": "Staying in a job you have outgrown is a decision. Make it for ninety days, with a plan.",
+ "sub": "Thirteen weeks, one career move a week, with five honest decision gates along the way.",
+ "cta": "Get it for $12",
+ "heroMicro": "<b>Printable PDF.</b> 3 pages. Print it or fill it in on a tablet. Instant download.",
+ "previews": [
+  "img/90-day-career-reset-1.jpg",
+  "img/90-day-career-reset-2.jpg",
+  "img/90-day-career-reset-3.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Day 0 baseline: position, constraint, contribution, friction, capacity, aim",
+  "The thirteen weekly moves with decision gates"
+ ],
+ "preview_alts": [
+  "First page of the 90-Day Career Reset with an introduction and how to use it",
+  "Day 0 baseline page with prompts for position, constraint, contribution, friction, capacity and aim",
+  "Thirteen weekly moves across direction, craft, influence, leadership and reinvention, with decision gates"
+ ],
+ "uvp": [
+  {
+   "h": "A Day 0 baseline",
+   "p": "Twenty minutes to write down where you stand before you change anything."
+  },
+  {
+   "h": "One move a week",
+   "p": "Thirteen small moves across direction, craft, influence, leadership and reinvention."
+  },
+  {
+   "h": "Five decision gates",
+   "p": "Set points to continue, change or stop, so the plan does not drift."
+  }
+ ],
+ "stat": {
+  "n": "48%",
+  "t": "of workers say they stay in their job out of fear and economic uncertainty. A ninety-day plan turns staying into a choice you test.",
+  "src": "Monster, Oct 2025"
+ },
+ "benefits": [
+  {
+   "h": "A baseline on paper",
+   "p": "Position, constraint, contribution, friction, capacity and aim, in your own words."
+  },
+  {
+   "h": "Small weekly moves",
+   "p": "One move a week, in order, so the plan fits around a full-time job."
+  },
+  {
+   "h": "Honest checkpoints",
+   "p": "Gates at set days make you answer whether it is working before you carry on."
+  },
+  {
+   "h": "A direction worth testing",
+   "p": "By the end you have evidence for a decision, not a feeling."
+  }
+ ],
+ "inside": [
+  "<b>Day 0 baseline.</b> Position, constraint, contribution, friction, capacity, aim.",
+  "<b>13 weekly moves.</b> Across direction, craft, influence, leadership and reinvention.",
+  "<b>Five decision gates.</b> Check-in points to continue, change or stop.",
+  "<b>Printable PDF.</b> 3 pages, US Letter, prints on A4 at fit to page."
+ ],
+ "steps": {
+  "title": "Day 0, then one move a week",
+  "items": [
+   {
+    "h": "Do Day 0",
+    "p": "Twenty minutes to write your baseline."
+   },
+   {
+    "h": "Make one move a week",
+    "p": "Take the moves in order. Check it off and write one line."
+   },
+   {
+    "h": "Stop at the gates",
+    "p": "At each gate, answer honestly: continue, change or stop."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if you want options without a leap",
+  "yes": [
+   "You have outgrown your role but are not ready to quit.",
+   "You want one small move a week, not a big overhaul.",
+   "You like decisions based on evidence."
+  ],
+  "no": [
+   "You need to decide right now whether to leave. The Stay-or-Go Worksheet is free.",
+   "You want the full workbook with scripts and a tracker sheet. The Career Kit launches Jan 18.",
+   "You want a recruiter or job board. This is a planning tool."
+  ]
+ },
+ "proof": {
+  "title": "Why a plan helps",
+  "stats": [
+   {
+    "n": "48%",
+    "t": "of workers say they stay in their job out of fear and economic uncertainty.",
+    "src": "Monster, Oct 2025"
+   },
+   {
+    "n": "57%",
+    "t": "call themselves job huggers.",
+    "src": "ResumeBuilder, Feb 2026"
+   },
+   {
+    "n": "108 days",
+    "t": "median from starting a job search to a first offer.",
+    "src": "Huntr, Q1 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Plan the next thirteen weeks",
+  "p": "A baseline, thirteen moves and five gates, in three printed pages.",
+  "items": [
+   "Day 0 baseline",
+   "13 weekly moves",
+   "Five decision gates"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How much time does it need?",
+   "a": "Day 0 takes about twenty minutes. After that it is one move a week, checked off and written up in a line."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "People who have outgrown a role and want to test a direction without quitting."
+  },
+  {
+   "q": "Do I need to quit to use it?",
+   "a": "No. It is built to run alongside your current job."
+  },
+  {
+   "q": "What are the decision gates?",
+   "a": "Set points in the plan where you answer honestly whether to continue, change or stop. There are five."
+  },
+  {
+   "q": "Can I print it or use it on a tablet?",
+   "a": "Yes. It is a PDF, so any PDF app works. It prints on US Letter or on A4 at fit to page."
+  },
+  {
+   "q": "Is this employment or legal advice?",
+   "a": "No. General education, not employment or legal advice."
+  }
+ ],
+ "related": {
+  "name": "The Raise Kit",
+  "price": "$19",
+  "slug": "raise-kit",
+  "blurb": "If the plan points to asking for more where you are, seven days of preparation and a four-line ask."
+ },
+ "final": {
+  "h": "Ninety days, one move a week.",
+  "p": "Write your Day 0 tonight."
+ },
+ "disclaimer": "General education, not employment or legal advice. Personal use only.",
+ "free": false
+}

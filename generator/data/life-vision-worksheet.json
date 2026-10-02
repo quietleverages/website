@@ -1,0 +1,143 @@
+{
+ "free": false,
+ "disclaimer": "General education only. Not medical, psychological, legal, financial or employment advice. Personal use only.",
+ "previews": [
+  "img/life-vision-worksheet-3.jpg",
+  "img/life-vision-worksheet-2.jpg"
+ ],
+ "heroMicro": "<b>Instant download.</b> Print it or use it on a tablet with any PDF app. Prints fine on A4 at 'fit to page'.",
+ "slug": "life-vision-worksheet",
+ "title": "Life Vision Worksheet",
+ "pillar": "reset",
+ "price": "$7",
+ "cta": "Get the worksheet for $7",
+ "priceNote": "One-time $7 on Gumroad. Instant download.",
+ "eyebrow": "Worksheet \u00b7 3 pages \u00b7 Reset",
+ "h1": "Ask where you want to be in ten years and you get a blank. Describe an ordinary Tuesday and you get an answer.",
+ "sub": "One full page for the Tuesday you want in ten years, four questions to work back from it, and one next step for this quarter.",
+ "preview_labels": [
+  "",
+  "The ten-year ordinary Tuesday page"
+ ],
+ "preview_alts": [
+  "Life Vision Worksheet page 3: four questions on people, work, money and what you will have stopped doing, plus one thing to do this quarter",
+  "Life Vision Worksheet page 2: a ruled page headed 'An ordinary Tuesday' for describing a day ten years from now"
+ ],
+ "uvp": [
+  {
+   "h": "A Tuesday, not a goal",
+   "p": "A full page to describe the ordinary day you want: where you wake up, who is there, what the work is."
+  },
+  {
+   "h": "Four questions",
+   "p": "People, work, money, and what you will have stopped doing. Short answers, written in pencil."
+  },
+  {
+   "h": "One step this quarter",
+   "p": "You finish with the one thing you can do in the next three months that points the right way."
+  }
+ ],
+ "benefits": [
+  {
+   "h": "A vision you can picture",
+   "p": "A specific day is easier to write than a ten-year goal, and easier to check against your week now."
+  },
+  {
+   "h": "What you will stop doing, on paper",
+   "p": "One of the four questions asks what you will have stopped. It is often the clearest line on the page."
+  },
+  {
+   "h": "A short path back to today",
+   "p": "One next step for this quarter, so the vision does not stay a nice page in a drawer."
+  },
+  {
+   "h": "Three pages, no setup",
+   "p": "Print it, pick up a pencil, and start on page 2."
+  }
+ ],
+ "benefitsTitle": "What you leave with",
+ "insideTitle": "Three pages that go from a day to a step",
+ "insideLead": "Use it once, then re-read it each quarter.",
+ "inside": [
+  "<b>The ordinary Tuesday.</b> A full page for the day you want in ten years.",
+  "<b>Four questions.</b> People, work, money, and what you will have stopped.",
+  "<b>One next step.</b> The one thing for this quarter.",
+  "<b>Printable PDF.</b> US Letter, 3 pages, undated."
+ ],
+ "steps": {
+  "title": "Three moves, one sitting",
+  "items": [
+   {
+    "h": "Describe the Tuesday",
+    "p": "Write the day in detail on the full page."
+   },
+   {
+    "h": "Answer the four questions",
+    "p": "People, work, money, and what you will have stopped doing."
+   },
+   {
+    "h": "Pick this quarter's step",
+    "p": "Write the one thing you can do now that points that way."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if the long view feels vague",
+  "yes": [
+   "You have goals for this year but no picture of the longer arc.",
+   "You want to know what your work and money are for.",
+   "You prefer a pencil and a page to an app."
+  ],
+  "no": [
+   "You want a full year plan with reviews. See The Quiet Reset 2027.",
+   "You want a vision board or a motivational read. This is a worksheet you fill in.",
+   "You want financial or career advice. This is a planning page."
+  ]
+ },
+ "proof": {
+  "title": "Why we built it",
+  "stats": [],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Write your Tuesday tonight",
+  "p": "Three pages and a pencil. If you want the whole year planned around it, the next step is ready.",
+  "items": [
+   "Ten-year ordinary Tuesday page",
+   "Four questions: people, work, money, what you will stop",
+   "One next step for this quarter"
+  ]
+ },
+ "faq": [
+  {
+   "q": "How long does it take?",
+   "a": "It is three pages. Take as long as your ordinary Tuesday needs. The quarter step is a single line."
+  },
+  {
+   "q": "What format is it?",
+   "a": "A printable PDF, US Letter, 3 pages. It prints fine on A4 at 'fit to page'."
+  },
+  {
+   "q": "Can I use it on a tablet?",
+   "a": "Yes. Any PDF app that lets you write on a page will do. Printing and a pencil works too."
+  },
+  {
+   "q": "Who is it for?",
+   "a": "Anyone who can plan the year ahead but finds the ten-year view vague. It is undated, so any year works."
+  },
+  {
+   "q": "Is it advice?",
+   "a": "No. It is a planning worksheet. General education only; not financial, legal, employment or mental-health advice."
+  }
+ ],
+ "related": {
+  "name": "The Quiet Reset 2027",
+  "price": "$67 ($47 early-bird)",
+  "slug": "quiet-reset-2027",
+  "blurb": "Score twelve life dimensions, pick three to work on and keep nine on maintenance. 105 minutes a week. Early-bird opens Nov 24."
+ },
+ "final": {
+  "h": "One ordinary Tuesday, ten years out.",
+  "p": "Write it down, then name one step for this quarter."
+ }
+}

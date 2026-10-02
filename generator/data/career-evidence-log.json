@@ -1,0 +1,164 @@
+{
+ "slug": "career-evidence-log",
+ "title": "Career Evidence Log",
+ "pillar": "work",
+ "price": "$7",
+ "eyebrow": "Career tool · 2 minutes every Friday",
+ "h1": "Your review is in three weeks and you cannot remember what you did in March.",
+ "sub": "Log your work wins every Friday so reviews, raises and interviews start from evidence, not memory.",
+ "cta": "Get it for $7",
+ "heroMicro": "<b>Google Sheet (.xlsx) + printable PDF.</b> Opens in Google Sheets or Excel. Instant download.",
+ "previews": [
+  "img/career-evidence-log-2.jpg",
+  "img/career-evidence-log-1.jpg"
+ ],
+ "preview_labels": [
+  "",
+  "Cover page with the three rules for a good entry"
+ ],
+ "preview_alts": [
+  "Log page with columns for date, what I did, what changed with a number if honest, and who else helped",
+  "First page of the Career Evidence Log with three rules: one line every Friday, verbs not adjectives, name other contributors"
+ ],
+ "uvp": [
+  {
+   "h": "One line every Friday",
+   "p": "Two minutes a week. The log builds itself."
+  },
+  {
+   "h": "Verbs and numbers",
+   "p": "Built around what you did and what changed, not adjectives."
+  },
+  {
+   "h": "Tagged for reuse",
+   "p": "Skill tags and a 'use in' column mark which entries suit a review, a raise or an interview."
+  }
+ ],
+ "stat": {
+  "n": "22%",
+  "t": "of managers were engaged in 2025, down from 31% in 2022. When attention is thin, the person with written evidence is easier to back.",
+  "src": "Gallup, 2026"
+ },
+ "benefits": [
+  {
+   "h": "No more blank-page reviews",
+   "p": "Months of entries ready when the review form arrives."
+  },
+  {
+   "h": "Evidence for a raise",
+   "p": "The same log feeds the case for a raise conversation."
+  },
+  {
+   "h": "A summary by skill",
+   "p": "The sheet groups your wins by skill so patterns show up."
+  },
+  {
+   "h": "Credit that holds up",
+   "p": "A column for who else helped makes your claims more credible."
+  }
+ ],
+ "inside": [
+  "<b>Google Sheet (.xlsx).</b> Skill tags, a 'use in' column and a summary by skill.",
+  "<b>Printable log page.</b> Date, what you did, what changed, who else helped.",
+  "<b>Three simple rules.</b> One line every Friday, verbs not adjectives, name other contributors.",
+  "<b>Opens in Google Sheets or Excel.</b> In Google Sheets, use File > Import."
+ ],
+ "steps": {
+  "title": "Friday, one line, two minutes",
+  "items": [
+   {
+    "h": "Add one line",
+    "p": "Every Friday, record what you did."
+   },
+   {
+    "h": "Add the change",
+    "p": "Use a verb such as explained, repaired or arranged. Add a number if it is honest."
+   },
+   {
+    "h": "Name who helped",
+    "p": "Naming other contributors makes your claim stronger, not weaker."
+   }
+  ]
+ },
+ "forwho": {
+  "title": "A good fit if your wins vanish by the next quarter",
+  "yes": [
+   "You have a review, raise or interview coming and nothing written down.",
+   "You can spare two minutes on a Friday.",
+   "You want a log that is plain and quick to keep."
+  ],
+  "no": [
+   "You want the full seven-day raise plan. See Salary Negotiation Prep or The Raise Kit.",
+   "You want a place for long reflection. This log is one line a week.",
+   "You expect it to write your self-review for you. It holds the evidence."
+  ]
+ },
+ "proof": {
+  "title": "Why written evidence helps",
+  "stats": [
+   {
+    "n": "22%",
+    "t": "of managers were engaged in 2025, down from 31% in 2022.",
+    "src": "Gallup, 2026"
+   },
+   {
+    "n": "48%",
+    "t": "of workers say they stay in their job out of fear and economic uncertainty.",
+    "src": "Monster, Oct 2025"
+   },
+   {
+    "n": "108 days",
+    "t": "median from starting a job search to a first offer.",
+    "src": "Huntr, Q1 2026"
+   }
+  ],
+  "note": "We read widely, test each idea against an ordinary week, and keep only what still works on a tired Tuesday."
+ },
+ "offer": {
+  "h": "Start the log this Friday",
+  "p": "A sheet and a printable page. Two minutes a week.",
+  "items": [
+   "Google Sheet (.xlsx) with skill tags and summary by skill",
+   "Printable log page",
+   "Three rules for good entries"
+  ]
+ },
+ "faq": [
+  {
+   "q": "Do I need Google Sheets?",
+   "a": "No. It is an .xlsx file that opens in Google Sheets (File > Import) or Excel. The printable PDF works on its own too."
+  },
+  {
+   "q": "How long does it take?",
+   "a": "About two minutes each Friday."
+  },
+  {
+   "q": "What should I write?",
+   "a": "What you did and what changed. Use verbs such as explained, repaired, compared or arranged. Add a number if it is honest, and name who helped."
+  },
+  {
+   "q": "Can I keep it on paper?",
+   "a": "Yes. The printable page works on paper or in any PDF app. It is US Letter and prints on A4 at fit to page."
+  },
+  {
+   "q": "Is it safe to keep work details in it?",
+   "a": "It is your own file, on your own device or paper. Keep anything confidential out of it, as you would with any personal notes."
+  },
+  {
+   "q": "Is this employment advice?",
+   "a": "No. General education, not employment or legal advice."
+  }
+ ],
+ "related": {
+  "name": "The Raise Kit",
+  "price": "$19",
+  "slug": "raise-kit",
+  "blurb": "Turn the log into a case: seven days of preparation, a four-line ask and seven pushbacks with responses."
+ },
+ "final": {
+  "h": "One line this Friday.",
+  "p": "By the next review you will have months of evidence."
+ },
+ "disclaimer": "General education, not employment or legal advice. Personal use only.",
+ "free": false
+}
