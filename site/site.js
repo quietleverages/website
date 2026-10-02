@@ -119,6 +119,7 @@
 
 
 (function(){
+  function init(){
   var dlg=document.getElementById('getfree'); if(!dlg||!dlg.showModal)return;
   var form=document.getElementById('gf-form'), frame=document.getElementById('gf-frame');
   var body=document.getElementById('gf-body'), done=document.getElementById('gf-done');
@@ -147,4 +148,6 @@
     document.getElementById('gf-addr').textContent=form.elements['email_address'].value;
     body.hidden=true; done.hidden=false;
   }
+  }
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init); else init();
 })();

@@ -340,4 +340,9 @@ dialog.getfree[open]{animation:qlUp .28s cubic-bezier(.2,.8,.2,1) both}
 .gf-submit[disabled]{opacity:.65;cursor:progress;transform:none}
 .gf-form .micro{color:var(--muted);font-size:.82rem;text-align:center}
 .gf-done{text-align:left}
+.gf-body[hidden],.gf-done[hidden],.gf-err[hidden]{display:none}
+.gf-body>*,.gf-done>*,.gf-form>*,.gf-row>*{min-width:0}
+.gf-form input{width:100%;min-width:0}
+dialog.getfree{overflow-x:hidden}
+#gf-frame{display:none}
 @media (prefers-reduced-motion:reduce){dialog.getfree[open]{animation:none}}

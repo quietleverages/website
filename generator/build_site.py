@@ -256,6 +256,11 @@ dialog.getfree[open]{animation:qlUp .28s cubic-bezier(.2,.8,.2,1) both}
 .gf-submit[disabled]{opacity:.65;cursor:progress;transform:none}
 .gf-form .micro{color:var(--muted);font-size:.82rem;text-align:center}
 .gf-done{text-align:left}
+.gf-body[hidden],.gf-done[hidden],.gf-err[hidden]{display:none}
+.gf-body>*,.gf-done>*,.gf-form>*,.gf-row>*{min-width:0}
+.gf-form input{width:100%;min-width:0}
+dialog.getfree{overflow-x:hidden}
+#gf-frame{display:none}
 @media (prefers-reduced-motion:reduce){dialog.getfree[open]{animation:none}}
 """
 
@@ -625,6 +630,7 @@ JS = r"""
 
 
 (function(){
+  function init(){
   var dlg=document.getElementById('getfree'); if(!dlg||!dlg.showModal)return;
   var form=document.getElementById('gf-form'), frame=document.getElementById('gf-frame');
   var body=document.getElementById('gf-body'), done=document.getElementById('gf-done');
@@ -653,6 +659,8 @@ JS = r"""
     document.getElementById('gf-addr').textContent=form.elements['email_address'].value;
     body.hidden=true; done.hidden=false;
   }
+  }
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init); else init();
 })();
 """
 
@@ -686,6 +694,8 @@ FREE_MODAL = """<dialog class="getfree" id="getfree" aria-labelledby="gf-title" 
 <span class="eyebrow">Sent</span>
 <h2>Check your inbox.</h2>
 <p class="gf-sub">Your {title} is on its way to <b id="gf-addr"></b>. It usually lands within a minute. If you do not see it, look in Promotions or Spam.</p>
+<p class="gf-sub">Already on our list from another tool? The email is sent once, so grab your files here:</p>
+<a class="btn accent" href="{dl}" download>Download now</a>
 <button class="btn ghost" type="button" id="gf-ok">Back to the page</button>
 </div>
 <iframe name="gf-frame" id="gf-frame" title="" hidden></iframe>
@@ -706,7 +716,9 @@ def product_page(d, prods):
     html = re.sub(r'<a class="gumroad-button"[^>]*>[^<]*</a>\s*', '', html)
     html = re.sub(r'<script src="https://gumroad\.com/js/gumroad\.js"[^>]*></script>\s*', '', html)
     html = re.sub(r'href="https://quietleverages\.gumroad\.com/l/%s"([^>]*data-free)' % re.escape(sl), r'href="#getfree"\1', html)
-    modal = FREE_MODAL.replace("{form}", str(FREE_FORMS[sl])).replace("{slug}", sl).replace("{title}", E(d["title"]))
+    dls = json.load(open(os.path.join(ROOT, "downloads.json")))
+    dl = dls[sl].replace("https://quietleverages.com/", "")
+    modal = FREE_MODAL.replace("{dl}", dl).replace("{form}", str(FREE_FORMS[sl])).replace("{slug}", sl).replace("{title}", E(d["title"]))
     return html.replace("</body>", modal + "\n</body>", 1)
 
 def write_extras(prods):
